@@ -19,16 +19,45 @@ Ein KI-gestützter Recherche-Assistent für Förderprojekte. Das Tool kombiniert
 
 ## Installation
 
-1. **Abhängigkeiten installieren:**
+1. **Virtual Environment erstellen und aktivieren:**
+
+   ```bash
+   # Navigieren Sie zum Projektordner
+   cd C:\Users\Ibale\PycharmProjects\pythonProject
+
+   # Virtual Environment erstellen (falls noch nicht vorhanden)
+   python -m venv .venv
+
+   # Virtual Environment aktivieren
+   # Auf Windows:
+   .venv\Scripts\activate
+
+   # Auf Linux/Mac:
+   source .venv/bin/activate
+   ```
+
+   Nach der Aktivierung sollte `(.venv)` vor Ihrer Kommandozeile erscheinen.
+
+2. **Abhängigkeiten installieren:**
 ```bash
 pip install pandas numpy sentence-transformers faiss-cpu requests gradio
 ```
 
-2. **Dateien vorbereiten:**
-- `projekte.csv` - Förderprojekt-Datenbank (muss im selben Ordner liegen)
-- `test_2_embeddings_bge-m3.npy` - Vorberechnete Embeddings (optional, wird sonst automatisch erstellt)
+3. **Projektdatenbank herunterladen (projekte.csv):**
 
-3. **API Key konfigurieren:**
+   a. Öffnen Sie https://foerderportal.bund.de/foekat/jsp/SucheAction.do?actionMode=searchmask
+
+   b. Führen Sie eine leere Suche aus (ohne Filter einzugeben)
+
+   c. Es werden alle Projekte aufgelistet
+
+   d. Klicken Sie auf "Ausgabe als Textdatei"
+
+   e. Der Browser lädt die `projekte.csv` herunter
+
+   f. Verschieben Sie die `projekte.csv` in den Projektordner (`.venv/`)
+
+4. **API Key konfigurieren:**
 
 Öffnen Sie `Foerderprojekt_test.py` und tragen Sie Ihren OpenAI API Key ein (Zeile 35):
 ```python
@@ -65,3 +94,4 @@ OPENAI_API_KEY: str = "HIER_API_KEY"                   # Ihr OpenAI Key
 ## Erste Verwendung
 
 Beim ersten Start werden automatisch Embeddings erstellt (dauert ca. 30-60 Minuten). Diese werden gespeichert und bei zukünftigen Starts wiederverwendet.
+
