@@ -1,0 +1,451 @@
+Modell,Query-Nr,Query,Erwartete FKZ,Treffer,Query-Zeit (s)
+e5-base-sts-en-de,1,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,16HPC063,NEIN,0.82
+e5-base-sts-en-de,2,Gemeinde Harrislee,4401WF0009,JA,0.046
+e5-base-sts-en-de,3,Respect 4 you GmbH & Co. KG,16SM20268D,JA,0.055
+e5-base-sts-en-de,4,Deutsche Beteiligung am OECD/NEA TCOFF-2 Projekt,1501653,JA,0.064
+e5-base-sts-en-de,5,System Strobel GmbH & Co. KG,45FGU106_F,JA,0.052
+e5-base-sts-en-de,6,DIN Deutsches Institut für Normung e. V.,19I21039O,NEIN,0.055
+e5-base-sts-en-de,7,Weiterbildung 4.OWL - Regional.Digital.Vernetzt,21INVI3005,NEIN,0.055
+e5-base-sts-en-de,8,Stadt Bad Doberan,67K18414,JA,0.067
+e5-base-sts-en-de,9,Hochschule Zittau/Görlitz,03EI5463A,NEIN,0.046
+e5-base-sts-en-de,10,Universität zu Köln,05A20PK2,NEIN,0.044
+e5-base-sts-en-de,11,Crowdee GmbH,03RU2U151E,NEIN,0.038
+e5-base-sts-en-de,12,ILS Research gGmbH,01UV2430C,NEIN,0.047
+e5-base-sts-en-de,13,Etablierung des Karrierewegs der Tenure-Track-Professur - Technische Universität Hamburg-Harburg,16TTP055,JA,0.688
+e5-base-sts-en-de,14,Brandenburgische Technische Universität Cottbus-Senftenberg,03WIR2511A,NEIN,0.054
+e5-base-sts-en-de,15,Technische Universität Ilmenau,50RK2121,NEIN,0.044
+e5-base-sts-en-de,16,embeX GmbH,19I22013B,JA,0.048
+e5-base-sts-en-de,17,"KSI: Aufbau einer Radabstellanlage inklusive Überdachung, Photovoltaik-Anlage und bis zu zwei E-Ladestatioenen am Bahnhof Bieringen",67K25688,JA,0.078
+e5-base-sts-en-de,18,Syngenta Seeds GmbH,2818402CNZ,JA,0.044
+e5-base-sts-en-de,19,KSI: Erstellung eines integrierten Klimaschutzkonzeptes durch ein Klimaschutzmanagement für die Hochschule Reutlingen (Klimacampus RT),67K16726,JA,0.111
+e5-base-sts-en-de,20,Verbundprojekt 05H2021 - Fortentwicklung des ATLAS-Experiments zum Einsatz am HL-LHC: Ausbau des Auslese- und Triggersystems für den Phase-II Ausbau d,05H21WWCA9,JA,0.075
+e5-base-sts-en-de,21,VDW-Forschungsinstitut e.V.,01IF21753N,NEIN,0.054
+e5-base-sts-en-de,22,Online-Felduntersuchung 9-Euro-Ticket im Schienenpersonenverkehr - Umfrage 2024,5317000055,JA,0.057
+e5-base-sts-en-de,23,Zentrum für Brennstoffzellen-Technik GmbH,03WIR2316B,NEIN,0.045
+e5-base-sts-en-de,24,Lahn-Dill-Kreis,4411G00342,JA,0.039
+e5-base-sts-en-de,25,Markt Bruckmühl,67K24032,NEIN,0.051
+e5-base-sts-en-de,26,Oldenburger Energiecluster OLEC e. V.,03SF0624O,JA,0.054
+e5-base-sts-en-de,27,Universität Bremen,16KISQ024,NEIN,0.036
+e5-base-sts-en-de,28,THD - Technische Hochschule Deggendorf,19S23002G,NEIN,0.043
+e5-base-sts-en-de,29,Westerwaldkreis,67K14754-1,NEIN,0.039
+e5-base-sts-en-de,30,Verbundprojekt: Diversitätsgerechter Privatheitsschutz in digitalen Umgebungen - DiversPrivat -,16KIS1877,JA,0.056
+e5-base-sts-en-de,31,CLIENT II - Verbundprojekt Klimaschutz: System zur bedarfsgerechten Bereitstellung solarer Prozesswärme für den Trocknungsprozess von Phosphat in Maro,01LZ2007B,JA,0.071
+e5-base-sts-en-de,32,DELTA Umwelt-Technik GmbH Gesellschaft für innovative Umwelttechnik Verfahrensentwicklung und Anwendung,02WPM1650B,JA,0.053
+e5-base-sts-en-de,33,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,03EN4008E,NEIN,0.051
+e5-base-sts-en-de,34,Carl von Ossietzky Universität Oldenburg,13N16354,NEIN,0.046
+e5-base-sts-en-de,35,Verbundvorhaben: EMS - Steigerung der Energieeffizienz bei der additiven Fertigung von Mikrobauteilen durch Einsatz eines heißdrahtbasierten Laserauft,03EN4049B,JA,0.08
+e5-base-sts-en-de,36,"Verbundprojekt: Methoden zum Austausch von unternehmensbezogenen Daten in treuhänderbasierten Datenökosystemen - MANDAT, Teilvorhaben: Dezentralisiert",16DTM107A,JA,0.068
+e5-base-sts-en-de,37,Otto-von-Guericke-Universität Magdeburg,03TR11W02,JA,0.085
+e5-base-sts-en-de,38,SAP SE,13IPC007,NEIN,0.044
+e5-base-sts-en-de,39,Technische Universität Carolo-Wilhelmina zu Braunschweig,16KIS1193,NEIN,0.053
+e5-base-sts-en-de,40,Technische Universität Hamburg,03SX599D,NEIN,0.038
+e5-base-sts-en-de,41,"REGULUS - Verbundvorhaben: A-DUR - Revitalisierte Auwälder - Dynamik und Resilienz im Zeichen der Multifunktionalität, Teilprojekt 3",033L308C,JA,0.082
+e5-base-sts-en-de,42,Technische Hochschule Mittelhessen,05P21ROFA1,NEIN,0.051
+e5-base-sts-en-de,43,"Unterstützung und Verbesserung von traditionellen Methoden in der Bahnbestimmung, sowie der Abschätzung der Unsicherheiten von Bahnelementen durch KI-",50LZ2308,JA,0.075
+e5-base-sts-en-de,44,Märkischer Kreis,4401BF0108,NEIN,0.041
+e5-base-sts-en-de,45,Technische Hochschule Köln,03EN4031C,NEIN,0.046
+e5-base-sts-en-de,46,Vereinigte Informationssysteme Tierhaltung w.V. (vit),16DTM111E,JA,0.056
+e5-base-sts-en-de,47,Pflegezentrum Grasberg GmbH,16SM10201D,JA,0.044
+e5-base-sts-en-de,48,STAXS - Stochastische Axonsysteme: von räumlicher Dynamik zu Selbstorganisation,01GQ2104,JA,0.052
+e5-base-sts-en-de,49,NaNaBatt - Nachhaltige Produktion von Natrium-Ionen-Batterien,03XP0569B,JA,0.058
+e5-base-sts-en-de,50,"Verbundprojekt: Selbstgesteuerte Assistenz für die manuelle Montage sowie Kommunikation und Interaktion (SAM-KI), Teilprojekt: Integration der Gesamtl",02L20C533,JA,0.068
+e5-base-sts-en-de,51,AIRBUS HELICOPTERS DEUTSCHLAND GmbH,20W1918B,NEIN,0.059
+e5-base-sts-en-de,52,Ruhr-Universität Bochum,05P21PCFP4,NEIN,0.044
+e5-base-sts-en-de,53,KSI: Außenbeleuchtung Markthalle Tellingstedt,67K25967,JA,0.057
+e5-base-sts-en-de,54,Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Ziff. 5.4 i.V.m. Nr. 3.1 der Förderrichtlinie des Bundes,4411G00579,NEIN,0.077
+e5-base-sts-en-de,55,Landkreis Schaumburg,4411G00528,JA,0.044
+e5-base-sts-en-de,56,Leibniz-Zentrum für Marine Tropenforschung (ZMT) GmbH,03F0966A,NEIN,0.045
+e5-base-sts-en-de,57,Hochschule Bielefeld ? University of Applied Sciences and Arts (HSBI),03VP09362,NEIN,0.049
+e5-base-sts-en-de,58,"Modellregion, Bio4MatPro: BoostLab 5-3 - Glucanes4Tex, Acrylnitril aus erneuerbaren Quellen, TP 1",031B1157A,JA,0.069
+e5-base-sts-en-de,59,Verbundvorhaben: Modellierung nachhaltig intelligent (Moni),16DKVS104B,JA,0.049
+e5-base-sts-en-de,60,Universität Bremen,03TR07W06A,NEIN,0.033
+e5-base-sts-en-de,61,Hochschule Hannover,03EI4028B,NEIN,0.036
+e5-base-sts-en-de,62,Hochschule für Technik Stuttgart,03EN1048B,NEIN,0.045
+e5-base-sts-en-de,63,Markt Küps,6902BF0392,NEIN,0.045
+e5-base-sts-en-de,64,LINC - Veränderte Lipid-Immun-Interaktionen in peripheren Nerven als Pathomechanismus von Polyneuropathien - Identifizierung epigenetischer Methylieru,01EJ2203C,JA,0.076
+e5-base-sts-en-de,65,Asantys Systems GmbH,03SF0607D,JA,0.033
+e5-base-sts-en-de,66,Stadt Haldensleben,67K24617,JA,0.038
+e5-base-sts-en-de,67,Airbus Operations GmbH,03B10704A,NEIN,0.036
+e5-base-sts-en-de,68,"Verbundprojekt: Agile, durchstimmbare Laser-Architekturen zur Nutzbarmachung des Terahertz-Frequenzbereichs und integrierte Photonik für 6G-Kommunikat",16KISK145,JA,0.083
+e5-base-sts-en-de,69,Breitband Ortenau GmbH & Co. KG,6909I00409,NEIN,0.043
+e5-base-sts-en-de,70,AIXTRON SE,16MEE0393,JA,0.036
+e5-base-sts-en-de,71,ThWIC: Inter- and Transdisciplinarity Leadership Program (INTRALead),03ZU1214TA,JA,0.057
+e5-base-sts-en-de,72,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,03EN3069B,NEIN,0.045
+e5-base-sts-en-de,73,Leibniz-Institut für Pflanzenbiochemie (IPB),031B1448A,NEIN,0.051
+e5-base-sts-en-de,74,datenschutz cert GmbH,01PP21003B,JA,0.037
+e5-base-sts-en-de,75,Stadt Datteln,67K26252,JA,0.032
+e5-base-sts-en-de,76,Johannes Gutenberg-Universität Mainz,3518685D01,NEIN,0.042
+e5-base-sts-en-de,77,Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ,16LW0447,NEIN,0.053
+e5-base-sts-en-de,78,Stadt Espelkamp,67K16435,JA,0.032
+e5-base-sts-en-de,79,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,16KIS1374K,NEIN,0.038
+e5-base-sts-en-de,80,Stadt Taucha,67K21234,NEIN,0.036
+e5-base-sts-en-de,81,Julius-Maximilians-Universität Würzburg,20D2113C,NEIN,0.044
+e5-base-sts-en-de,82,Kreis Düren,4401BF0082,NEIN,0.038
+e5-base-sts-en-de,83,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,01LK2304A,NEIN,0.05
+e5-base-sts-en-de,84,Krauts_and_Sprouts,03EGTNW012,JA,0.047
+e5-base-sts-en-de,85,"Verbundprojekt BiTe: Vorhaben zur Steigerung der Biodiversität in Angebot und Nachfrage der Außer-Haus-Gastronomie, Teilprojekt E",01UT2106E,JA,0.05
+e5-base-sts-en-de,86,KiTma e.V. - Strength & Knowlege,66INT11203,JA,0.053
+e5-base-sts-en-de,87,Astronomische Gesellschaft e.V.,05A24GAA,JA,0.048
+e5-base-sts-en-de,88,Stadt Gundelfingen a.d. Donau,6904WF0180,JA,0.056
+e5-base-sts-en-de,89,Forschungsvereinigung Gießereitechnik e.V.,01IF21609N,NEIN,0.053
+e5-base-sts-en-de,90,Breitband Ortenau GmbH & Co. KG,6901IF1054,NEIN,0.043
+e5-base-sts-en-de,91,Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzwerkeffekten in der Datenproduktion und -verwertung - LuftDatenNet,16DTM116,JA,0.073
+e5-base-sts-en-de,92,d.u.h. Group GmbH,03LB2057A,NEIN,0.043
+e5-base-sts-en-de,93,Phytowelt GreenTechnologies GmbH,031B1335B,JA,0.037
+e5-base-sts-en-de,94,Verbundprojekt SODAH: Smart Object Detection And Handling,01IS24041B,JA,0.046
+e5-base-sts-en-de,95,"Verbundvorhaben: TEAM-X - Trusted Ecosystem of Applied Medical Data eXchange, Teilvorhaben: FAU@TEAM-X",68GX21004F,JA,0.065
+e5-base-sts-en-de,96,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,VBBMM2434,NEIN,0.052
+e5-base-sts-en-de,97,Gemeinde Großhansdorf,67K27342,JA,0.033
+e5-base-sts-en-de,98,European Forest Institute,16LW0159,JA,0.032
+e5-base-sts-en-de,99,Bernard Technologies GmbH,19S21004E,NEIN,0.037
+e5-base-sts-en-de,100,Universität Hamburg,01GP2214B,NEIN,0.031
+e5-base-sts-en-de,101,KSI: LED-Umrüstung Straßenbeleuchtung Stadt Hofheim i. UFr.,67K23903,JA,0.057
+e5-base-sts-en-de,102,naymspace software GmbH & Co. KG,16SV9167,JA,0.049
+e5-base-sts-en-de,103,"Verbundvorhaben: H2DE - Integriertes vollumfängliches Regio-Wasserstoffkonzept, Teilvorhaben: Entwicklung eines Simulationsmodells zur optimierten, se",03EI3077E,JA,0.063
+e5-base-sts-en-de,104,Deutsche Institute für Textil- und Faserforschung Denkendorf (DITF),01MF23001D,JA,0.044
+e5-base-sts-en-de,105,NGMedical GmbH,13GW0601B,JA,0.036
+e5-base-sts-en-de,106,Technische Universität Darmstadt,16MEE0267,NEIN,0.042
+e5-base-sts-en-de,107,"MaSSiF - Materialinnovationen für Schwefel-Silizium-Festkörperbatterien - Design, Aufbau und Bewertung von Prototypzellen",03XP0519B,JA,0.064
+e5-base-sts-en-de,108,Forschungsverbund Berlin e.V.,16GW0357K,NEIN,0.039
+e5-base-sts-en-de,109,Forward Engineering GmbH,19S22005L,JA,0.037
+e5-base-sts-en-de,110,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,01MK24002A,NEIN,0.054
+e5-base-sts-en-de,111,TÜV NORD Systems GmbH & Co. KG,19I21039I,JA,0.063
+e5-base-sts-en-de,112,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,16SM20123D,NEIN,0.056
+e5-base-sts-en-de,113,Universität Duisburg-Essen,03SF0658A,NEIN,0.046
+e5-base-sts-en-de,114,Klimaanpassung selbstgemacht - Naturbasierte Lösungen für die Nachbarschaft: Gestaltung und Reaktivierung ungenutzter Flächen durch Entsiegelung und N,372323V340,JA,0.067
+e5-base-sts-en-de,115,Goepfert Werkzeug & Formenbau GmbH & Co. Teilefertigung KG,13DR035,JA,0.054
+e5-base-sts-en-de,116,Abmusterungsbedingungen für die LED-dominierte Lichtumgebung in der Druck- und Medienindustrie.,01IF23183N,JA,0.064
+e5-base-sts-en-de,117,NBS Northern Business School gGmbH,16NISTA02B,JA,0.04
+e5-base-sts-en-de,118,Deutsches Forschungszentrum für Künstliche Intelligenz GmbH,13N16405,NEIN,0.052
+e5-base-sts-en-de,119,"CO2-WIN - Verbundvorhaben: CO2-WIN-Connect - Vernetzungs- und Transfervorhaben, Teilvorhaben 1: Koordination und Vernetzung",033RC016A,JA,0.069
+e5-base-sts-en-de,120,WIR! - CAPTN Energy - Strategieentwicklung,03WIR7703,JA,0.051
+e5-base-sts-en-de,121,Modellierung der druck- und temperaturabhängigen Viskosität,01IF22496N,JA,0.049
+e5-base-sts-en-de,122,LiSyM-Krebs - Phase II - Verbundprojekt: DEEP-HCC - Vertieftes Systemverständnis der Entstehung des hepatozellulären Karzinoms als Grundlage für neue ,031L0315D,JA,0.064
+e5-base-sts-en-de,123,Metallfaserverstärktes CFK für schadenstolerante Vorflügelstrukturen,20M2265E,JA,0.045
+e5-base-sts-en-de,124,BITSz electronics GmbH,281C502A21,NEIN,0.043
+e5-base-sts-en-de,125,Universität Heidelberg,01EC1907A,NEIN,0.042
+e5-base-sts-en-de,126,Caritasverband für das Bistum Aachen e.V.,2524BMV507,NEIN,0.043
+e5-base-sts-en-de,127,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,03F0968A,NEIN,0.05
+e5-base-sts-en-de,128,Technische Hochschule Wildau (FH),01MS19002A,NEIN,0.048
+e5-base-sts-en-de,129,"BTB-Blockheizkraftwerks, Träger- und Betreibergesellschaft mbH Berlin",03EN3026E,JA,0.052
+e5-base-sts-en-de,130,KSI: Kommunale Wärmeplanung für die Stadt Zirndorf,67K25118,JA,0.048
+e5-base-sts-en-de,131,Hochschule Mannheim,01IS23023B,NEIN,0.039
+e5-base-sts-en-de,132,Modernisierung der Ausstattung im AusbildungsCampus Köln,21LDA558I,JA,0.053
+e5-base-sts-en-de,133,one.five GmbH,13BDA40010,NEIN,0.052
+e5-base-sts-en-de,134,Stadt Wegberg,67K19519,JA,0.041
+e5-base-sts-en-de,135,"Innovationsraum: BioTexFuture - SmartBioFinish - Umsetzungsphase, TP D",031B1488D,JA,0.055
+e5-base-sts-en-de,136,Infrastruktur - Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Nr. 3.1 der Gigabit-RL 2.0 des Bundes,6904WF0776,NEIN,0.063
+e5-base-sts-en-de,137,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,20W2214D,NEIN,0.046
+e5-base-sts-en-de,138,Ressourcenschonung durch Digitalisierung einer Produktionslinie und RetroFit einer Klebeanlage (JF-KL-RF),13DR023,JA,0.061
+e5-base-sts-en-de,139,Aerial PV Inspection GmbH,03EE1107E,JA,0.041
+e5-base-sts-en-de,140,EDI GmbH,02L19C257,JA,0.031
+e5-base-sts-en-de,141,KSI: Kommunale Wärmeplanung der VG Aiterhofen,67K27395,JA,0.046
+e5-base-sts-en-de,142,Ludwig-Maximilians-Universität München,01KC2005A,NEIN,0.046
+e5-base-sts-en-de,143,Kreis Herford,4404WF0042,NEIN,0.217
+e5-base-sts-en-de,144,QVLS-iLabs: Quantum-Gravimeter mit fortschrittlichen LIDE-basierten Atomchips (Q-GALA) - C,03ZU1209KC,JA,0.36
+e5-base-sts-en-de,145,fortiss GmbH,67KI21007F,NEIN,0.04
+e5-base-sts-en-de,146,Friedrich-Alexander-Universität Erlangen-Nürnberg,02J19B062,NEIN,0.065
+e5-base-sts-en-de,147,Bundesanstalt für Straßenwesen (BASt),45AVF2002F,NEIN,0.049
+e5-base-sts-en-de,148,KMU-innovativ - Verbundprojekt dqualizer: Domänenzentrierte Laufzeitqualitätsanalyse geschäftskritischer Anwendungssysteme,01IS22007B,JA,0.069
+e5-base-sts-en-de,149,Universität Heidelberg,16LW0161K,NEIN,0.047
+e5-base-sts-en-de,150,"Verbundprojekt: Genetische Analyse und Modellierung der Weizen-Rostinteraktion zur Entwicklung stabiler, mehrfachresistenter Weizensorten (RustHealth)",281D120C21,JA,0.088
+bge-m3,1,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,16HPC063,NEIN,1.35
+bge-m3,2,Gemeinde Harrislee,4401WF0009,JA,0.105
+bge-m3,3,Respect 4 you GmbH & Co. KG,16SM20268D,JA,0.14
+bge-m3,4,Deutsche Beteiligung am OECD/NEA TCOFF-2 Projekt,1501653,JA,0.157
+bge-m3,5,System Strobel GmbH & Co. KG,45FGU106_F,JA,0.148
+bge-m3,6,DIN Deutsches Institut für Normung e. V.,19I21039O,JA,0.173
+bge-m3,7,Weiterbildung 4.OWL - Regional.Digital.Vernetzt,21INVI3005,JA,0.202
+bge-m3,8,Stadt Bad Doberan,67K18414,JA,0.109
+bge-m3,9,Hochschule Zittau/Görlitz,03EI5463A,NEIN,0.152
+bge-m3,10,Universität zu Köln,05A20PK2,NEIN,0.107
+bge-m3,11,Crowdee GmbH,03RU2U151E,JA,0.089
+bge-m3,12,ILS Research gGmbH,01UV2430C,NEIN,0.108
+bge-m3,13,Etablierung des Karrierewegs der Tenure-Track-Professur - Technische Universität Hamburg-Harburg,16TTP055,JA,0.182
+bge-m3,14,Brandenburgische Technische Universität Cottbus-Senftenberg,03WIR2511A,NEIN,0.152
+bge-m3,15,Technische Universität Ilmenau,50RK2121,NEIN,0.11
+bge-m3,16,embeX GmbH,19I22013B,JA,0.097
+bge-m3,17,"KSI: Aufbau einer Radabstellanlage inklusive Überdachung, Photovoltaik-Anlage und bis zu zwei E-Ladestatioenen am Bahnhof Bieringen",67K25688,JA,0.199
+bge-m3,18,Syngenta Seeds GmbH,2818402CNZ,JA,0.123
+bge-m3,19,KSI: Erstellung eines integrierten Klimaschutzkonzeptes durch ein Klimaschutzmanagement für die Hochschule Reutlingen (Klimacampus RT),67K16726,JA,0.169
+bge-m3,20,Verbundprojekt 05H2021 - Fortentwicklung des ATLAS-Experiments zum Einsatz am HL-LHC: Ausbau des Auslese- und Triggersystems für den Phase-II Ausbau d,05H21WWCA9,JA,0.189
+bge-m3,21,VDW-Forschungsinstitut e.V.,01IF21753N,JA,0.147
+bge-m3,22,Online-Felduntersuchung 9-Euro-Ticket im Schienenpersonenverkehr - Umfrage 2024,5317000055,JA,0.154
+bge-m3,23,Zentrum für Brennstoffzellen-Technik GmbH,03WIR2316B,NEIN,0.141
+bge-m3,24,Lahn-Dill-Kreis,4411G00342,JA,0.122
+bge-m3,25,Markt Bruckmühl,67K24032,JA,0.119
+bge-m3,26,Oldenburger Energiecluster OLEC e. V.,03SF0624O,JA,0.163
+bge-m3,27,Universität Bremen,16KISQ024,JA,0.097
+bge-m3,28,THD - Technische Hochschule Deggendorf,19S23002G,NEIN,0.133
+bge-m3,29,Westerwaldkreis,67K14754-1,JA,0.093
+bge-m3,30,Verbundprojekt: Diversitätsgerechter Privatheitsschutz in digitalen Umgebungen - DiversPrivat -,16KIS1877,JA,0.152
+bge-m3,31,CLIENT II - Verbundprojekt Klimaschutz: System zur bedarfsgerechten Bereitstellung solarer Prozesswärme für den Trocknungsprozess von Phosphat in Maro,01LZ2007B,JA,0.181
+bge-m3,32,DELTA Umwelt-Technik GmbH Gesellschaft für innovative Umwelttechnik Verfahrensentwicklung und Anwendung,02WPM1650B,NEIN,0.137
+bge-m3,33,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,03EN4008E,NEIN,0.158
+bge-m3,34,Carl von Ossietzky Universität Oldenburg,13N16354,NEIN,0.153
+bge-m3,35,Verbundvorhaben: EMS - Steigerung der Energieeffizienz bei der additiven Fertigung von Mikrobauteilen durch Einsatz eines heißdrahtbasierten Laserauft,03EN4049B,JA,0.177
+bge-m3,36,"Verbundprojekt: Methoden zum Austausch von unternehmensbezogenen Daten in treuhänderbasierten Datenökosystemen - MANDAT, Teilvorhaben: Dezentralisiert",16DTM107A,JA,0.217
+bge-m3,37,Otto-von-Guericke-Universität Magdeburg,03TR11W02,NEIN,0.162
+bge-m3,38,SAP SE,13IPC007,JA,0.099
+bge-m3,39,Technische Universität Carolo-Wilhelmina zu Braunschweig,16KIS1193,NEIN,0.166
+bge-m3,40,Technische Universität Hamburg,03SX599D,NEIN,0.101
+bge-m3,41,"REGULUS - Verbundvorhaben: A-DUR - Revitalisierte Auwälder - Dynamik und Resilienz im Zeichen der Multifunktionalität, Teilprojekt 3",033L308C,JA,0.219
+bge-m3,42,Technische Hochschule Mittelhessen,05P21ROFA1,NEIN,0.096
+bge-m3,43,"Unterstützung und Verbesserung von traditionellen Methoden in der Bahnbestimmung, sowie der Abschätzung der Unsicherheiten von Bahnelementen durch KI-",50LZ2308,JA,0.201
+bge-m3,44,Märkischer Kreis,4401BF0108,NEIN,0.1
+bge-m3,45,Technische Hochschule Köln,03EN4031C,NEIN,0.097
+bge-m3,46,Vereinigte Informationssysteme Tierhaltung w.V. (vit),16DTM111E,JA,0.168
+bge-m3,47,Pflegezentrum Grasberg GmbH,16SM10201D,JA,0.111
+bge-m3,48,STAXS - Stochastische Axonsysteme: von räumlicher Dynamik zu Selbstorganisation,01GQ2104,JA,0.138
+bge-m3,49,NaNaBatt - Nachhaltige Produktion von Natrium-Ionen-Batterien,03XP0569B,JA,0.176
+bge-m3,50,"Verbundprojekt: Selbstgesteuerte Assistenz für die manuelle Montage sowie Kommunikation und Interaktion (SAM-KI), Teilprojekt: Integration der Gesamtl",02L20C533,JA,0.189
+bge-m3,51,AIRBUS HELICOPTERS DEUTSCHLAND GmbH,20W1918B,JA,0.139
+bge-m3,52,Ruhr-Universität Bochum,05P21PCFP4,NEIN,0.095
+bge-m3,53,KSI: Außenbeleuchtung Markthalle Tellingstedt,67K25967,JA,0.14
+bge-m3,54,Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Ziff. 5.4 i.V.m. Nr. 3.1 der Förderrichtlinie des Bundes,4411G00579,NEIN,0.183
+bge-m3,55,Landkreis Schaumburg,4411G00528,JA,0.098
+bge-m3,56,Leibniz-Zentrum für Marine Tropenforschung (ZMT) GmbH,03F0966A,JA,0.16
+bge-m3,57,Hochschule Bielefeld ? University of Applied Sciences and Arts (HSBI),03VP09362,NEIN,0.172
+bge-m3,58,"Modellregion, Bio4MatPro: BoostLab 5-3 - Glucanes4Tex, Acrylnitril aus erneuerbaren Quellen, TP 1",031B1157A,JA,0.193
+bge-m3,59,Verbundvorhaben: Modellierung nachhaltig intelligent (Moni),16DKVS104B,JA,0.149
+bge-m3,60,Universität Bremen,03TR07W06A,NEIN,0.098
+bge-m3,61,Hochschule Hannover,03EI4028B,NEIN,0.116
+bge-m3,62,Hochschule für Technik Stuttgart,03EN1048B,NEIN,0.108
+bge-m3,63,Markt Küps,6902BF0392,JA,0.107
+bge-m3,64,LINC - Veränderte Lipid-Immun-Interaktionen in peripheren Nerven als Pathomechanismus von Polyneuropathien - Identifizierung epigenetischer Methylieru,01EJ2203C,JA,0.213
+bge-m3,65,Asantys Systems GmbH,03SF0607D,JA,0.113
+bge-m3,66,Stadt Haldensleben,67K24617,JA,0.098
+bge-m3,67,Airbus Operations GmbH,03B10704A,NEIN,0.103
+bge-m3,68,"Verbundprojekt: Agile, durchstimmbare Laser-Architekturen zur Nutzbarmachung des Terahertz-Frequenzbereichs und integrierte Photonik für 6G-Kommunikat",16KISK145,JA,0.239
+bge-m3,69,Breitband Ortenau GmbH & Co. KG,6909I00409,NEIN,0.184
+bge-m3,70,AIXTRON SE,16MEE0393,JA,0.1
+bge-m3,71,ThWIC: Inter- and Transdisciplinarity Leadership Program (INTRALead),03ZU1214TA,JA,0.165
+bge-m3,72,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,03EN3069B,NEIN,0.174
+bge-m3,73,Leibniz-Institut für Pflanzenbiochemie (IPB),031B1448A,NEIN,0.157
+bge-m3,74,datenschutz cert GmbH,01PP21003B,JA,0.132
+bge-m3,75,Stadt Datteln,67K26252,JA,0.091
+bge-m3,76,Johannes Gutenberg-Universität Mainz,3518685D01,NEIN,0.115
+bge-m3,77,Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ,16LW0447,NEIN,0.154
+bge-m3,78,Stadt Espelkamp,67K16435,JA,0.094
+bge-m3,79,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,16KIS1374K,NEIN,0.169
+bge-m3,80,Stadt Taucha,67K21234,NEIN,0.115
+bge-m3,81,Julius-Maximilians-Universität Würzburg,20D2113C,NEIN,0.159
+bge-m3,82,Kreis Düren,4401BF0082,NEIN,0.093
+bge-m3,83,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,01LK2304A,NEIN,0.144
+bge-m3,84,Krauts_and_Sprouts,03EGTNW012,JA,0.125
+bge-m3,85,"Verbundprojekt BiTe: Vorhaben zur Steigerung der Biodiversität in Angebot und Nachfrage der Außer-Haus-Gastronomie, Teilprojekt E",01UT2106E,JA,0.191
+bge-m3,86,KiTma e.V. - Strength & Knowlege,66INT11203,JA,0.14
+bge-m3,87,Astronomische Gesellschaft e.V.,05A24GAA,JA,0.103
+bge-m3,88,Stadt Gundelfingen a.d. Donau,6904WF0180,JA,0.138
+bge-m3,89,Forschungsvereinigung Gießereitechnik e.V.,01IF21609N,JA,0.166
+bge-m3,90,Breitband Ortenau GmbH & Co. KG,6901IF1054,NEIN,0.148
+bge-m3,91,Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzwerkeffekten in der Datenproduktion und -verwertung - LuftDatenNet,16DTM116,JA,0.155
+bge-m3,92,d.u.h. Group GmbH,03LB2057A,JA,0.135
+bge-m3,93,Phytowelt GreenTechnologies GmbH,031B1335B,JA,0.13
+bge-m3,94,Verbundprojekt SODAH: Smart Object Detection And Handling,01IS24041B,JA,0.143
+bge-m3,95,"Verbundvorhaben: TEAM-X - Trusted Ecosystem of Applied Medical Data eXchange, Teilvorhaben: FAU@TEAM-X",68GX21004F,JA,0.158
+bge-m3,96,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,VBBMM2434,NEIN,0.146
+bge-m3,97,Gemeinde Großhansdorf,67K27342,JA,0.103
+bge-m3,98,European Forest Institute,16LW0159,JA,0.088
+bge-m3,99,Bernard Technologies GmbH,19S21004E,NEIN,0.099
+bge-m3,100,Universität Hamburg,01GP2214B,NEIN,0.089
+bge-m3,101,KSI: LED-Umrüstung Straßenbeleuchtung Stadt Hofheim i. UFr.,67K23903,JA,0.172
+bge-m3,102,naymspace software GmbH & Co. KG,16SV9167,JA,0.14
+bge-m3,103,"Verbundvorhaben: H2DE - Integriertes vollumfängliches Regio-Wasserstoffkonzept, Teilvorhaben: Entwicklung eines Simulationsmodells zur optimierten, se",03EI3077E,JA,0.22
+bge-m3,104,Deutsche Institute für Textil- und Faserforschung Denkendorf (DITF),01MF23001D,NEIN,0.159
+bge-m3,105,NGMedical GmbH,13GW0601B,JA,0.104
+bge-m3,106,Technische Universität Darmstadt,16MEE0267,NEIN,0.105
+bge-m3,107,"MaSSiF - Materialinnovationen für Schwefel-Silizium-Festkörperbatterien - Design, Aufbau und Bewertung von Prototypzellen",03XP0519B,JA,0.196
+bge-m3,108,Forschungsverbund Berlin e.V.,16GW0357K,NEIN,0.141
+bge-m3,109,Forward Engineering GmbH,19S22005L,JA,0.104
+bge-m3,110,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,01MK24002A,NEIN,0.208
+bge-m3,111,TÜV NORD Systems GmbH & Co. KG,19I21039I,JA,0.147
+bge-m3,112,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,16SM20123D,NEIN,0.158
+bge-m3,113,Universität Duisburg-Essen,03SF0658A,NEIN,0.126
+bge-m3,114,Klimaanpassung selbstgemacht - Naturbasierte Lösungen für die Nachbarschaft: Gestaltung und Reaktivierung ungenutzter Flächen durch Entsiegelung und N,372323V340,JA,0.195
+bge-m3,115,Goepfert Werkzeug & Formenbau GmbH & Co. Teilefertigung KG,13DR035,JA,0.151
+bge-m3,116,Abmusterungsbedingungen für die LED-dominierte Lichtumgebung in der Druck- und Medienindustrie.,01IF23183N,JA,0.178
+bge-m3,117,NBS Northern Business School gGmbH,16NISTA02B,JA,0.143
+bge-m3,118,Deutsches Forschungszentrum für Künstliche Intelligenz GmbH,13N16405,NEIN,0.158
+bge-m3,119,"CO2-WIN - Verbundvorhaben: CO2-WIN-Connect - Vernetzungs- und Transfervorhaben, Teilvorhaben 1: Koordination und Vernetzung",033RC016A,JA,0.217
+bge-m3,120,WIR! - CAPTN Energy - Strategieentwicklung,03WIR7703,JA,0.139
+bge-m3,121,Modellierung der druck- und temperaturabhängigen Viskosität,01IF22496N,JA,0.139
+bge-m3,122,LiSyM-Krebs - Phase II - Verbundprojekt: DEEP-HCC - Vertieftes Systemverständnis der Entstehung des hepatozellulären Karzinoms als Grundlage für neue ,031L0315D,JA,0.224
+bge-m3,123,Metallfaserverstärktes CFK für schadenstolerante Vorflügelstrukturen,20M2265E,JA,0.143
+bge-m3,124,BITSz electronics GmbH,281C502A21,JA,0.113
+bge-m3,125,Universität Heidelberg,01EC1907A,NEIN,0.083
+bge-m3,126,Caritasverband für das Bistum Aachen e.V.,2524BMV507,JA,0.149
+bge-m3,127,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,03F0968A,NEIN,0.15
+bge-m3,128,Technische Hochschule Wildau (FH),01MS19002A,NEIN,0.149
+bge-m3,129,"BTB-Blockheizkraftwerks, Träger- und Betreibergesellschaft mbH Berlin",03EN3026E,JA,0.148
+bge-m3,130,KSI: Kommunale Wärmeplanung für die Stadt Zirndorf,67K25118,JA,0.141
+bge-m3,131,Hochschule Mannheim,01IS23023B,NEIN,0.092
+bge-m3,132,Modernisierung der Ausstattung im AusbildungsCampus Köln,21LDA558I,JA,0.126
+bge-m3,133,one.five GmbH,13BDA40010,JA,0.117
+bge-m3,134,Stadt Wegberg,67K19519,JA,0.095
+bge-m3,135,"Innovationsraum: BioTexFuture - SmartBioFinish - Umsetzungsphase, TP D",031B1488D,JA,0.18
+bge-m3,136,Infrastruktur - Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Nr. 3.1 der Gigabit-RL 2.0 des Bundes,6904WF0776,NEIN,0.214
+bge-m3,137,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,20W2214D,NEIN,0.163
+bge-m3,138,Ressourcenschonung durch Digitalisierung einer Produktionslinie und RetroFit einer Klebeanlage (JF-KL-RF),13DR023,JA,0.176
+bge-m3,139,Aerial PV Inspection GmbH,03EE1107E,JA,0.116
+bge-m3,140,EDI GmbH,02L19C257,JA,0.094
+bge-m3,141,KSI: Kommunale Wärmeplanung der VG Aiterhofen,67K27395,JA,0.157
+bge-m3,142,Ludwig-Maximilians-Universität München,01KC2005A,NEIN,0.132
+bge-m3,143,Kreis Herford,4404WF0042,JA,0.1
+bge-m3,144,QVLS-iLabs: Quantum-Gravimeter mit fortschrittlichen LIDE-basierten Atomchips (Q-GALA) - C,03ZU1209KC,JA,0.218
+bge-m3,145,fortiss GmbH,67KI21007F,JA,0.09
+bge-m3,146,Friedrich-Alexander-Universität Erlangen-Nürnberg,02J19B062,NEIN,0.162
+bge-m3,147,Bundesanstalt für Straßenwesen (BASt),45AVF2002F,JA,0.138
+bge-m3,148,KMU-innovativ - Verbundprojekt dqualizer: Domänenzentrierte Laufzeitqualitätsanalyse geschäftskritischer Anwendungssysteme,01IS22007B,JA,0.18
+bge-m3,149,Universität Heidelberg,16LW0161K,NEIN,0.1
+bge-m3,150,"Verbundprojekt: Genetische Analyse und Modellierung der Weizen-Rostinteraktion zur Entwicklung stabiler, mehrfachresistenter Weizensorten (RustHealth)",281D120C21,JA,0.223
+all-MiniLM-L6-v2,1,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,16HPC063,NEIN,0.081
+all-MiniLM-L6-v2,2,Gemeinde Harrislee,4401WF0009,JA,0.017
+all-MiniLM-L6-v2,3,Respect 4 you GmbH & Co. KG,16SM20268D,JA,0.016
+all-MiniLM-L6-v2,4,Deutsche Beteiligung am OECD/NEA TCOFF-2 Projekt,1501653,JA,0.019
+all-MiniLM-L6-v2,5,System Strobel GmbH & Co. KG,45FGU106_F,NEIN,0.019
+all-MiniLM-L6-v2,6,DIN Deutsches Institut für Normung e. V.,19I21039O,NEIN,0.016
+all-MiniLM-L6-v2,7,Weiterbildung 4.OWL - Regional.Digital.Vernetzt,21INVI3005,JA,0.019
+all-MiniLM-L6-v2,8,Stadt Bad Doberan,67K18414,JA,0.015
+all-MiniLM-L6-v2,9,Hochschule Zittau/Görlitz,03EI5463A,NEIN,0.016
+all-MiniLM-L6-v2,10,Universität zu Köln,05A20PK2,NEIN,0.012
+all-MiniLM-L6-v2,11,Crowdee GmbH,03RU2U151E,JA,0.012
+all-MiniLM-L6-v2,12,ILS Research gGmbH,01UV2430C,JA,0.012
+all-MiniLM-L6-v2,13,Etablierung des Karrierewegs der Tenure-Track-Professur - Technische Universität Hamburg-Harburg,16TTP055,JA,0.018
+all-MiniLM-L6-v2,14,Brandenburgische Technische Universität Cottbus-Senftenberg,03WIR2511A,JA,0.014
+all-MiniLM-L6-v2,15,Technische Universität Ilmenau,50RK2121,NEIN,0.013
+all-MiniLM-L6-v2,16,embeX GmbH,19I22013B,JA,0.013
+all-MiniLM-L6-v2,17,"KSI: Aufbau einer Radabstellanlage inklusive Überdachung, Photovoltaik-Anlage und bis zu zwei E-Ladestatioenen am Bahnhof Bieringen",67K25688,NEIN,0.022
+all-MiniLM-L6-v2,18,Syngenta Seeds GmbH,2818402CNZ,JA,0.016
+all-MiniLM-L6-v2,19,KSI: Erstellung eines integrierten Klimaschutzkonzeptes durch ein Klimaschutzmanagement für die Hochschule Reutlingen (Klimacampus RT),67K16726,JA,0.026
+all-MiniLM-L6-v2,20,Verbundprojekt 05H2021 - Fortentwicklung des ATLAS-Experiments zum Einsatz am HL-LHC: Ausbau des Auslese- und Triggersystems für den Phase-II Ausbau d,05H21WWCA9,JA,0.023
+all-MiniLM-L6-v2,21,VDW-Forschungsinstitut e.V.,01IF21753N,NEIN,0.018
+all-MiniLM-L6-v2,22,Online-Felduntersuchung 9-Euro-Ticket im Schienenpersonenverkehr - Umfrage 2024,5317000055,JA,0.019
+all-MiniLM-L6-v2,23,Zentrum für Brennstoffzellen-Technik GmbH,03WIR2316B,NEIN,0.013
+all-MiniLM-L6-v2,24,Lahn-Dill-Kreis,4411G00342,JA,0.012
+all-MiniLM-L6-v2,25,Markt Bruckmühl,67K24032,NEIN,0.014
+all-MiniLM-L6-v2,26,Oldenburger Energiecluster OLEC e. V.,03SF0624O,NEIN,0.015
+all-MiniLM-L6-v2,27,Universität Bremen,16KISQ024,NEIN,0.013
+all-MiniLM-L6-v2,28,THD - Technische Hochschule Deggendorf,19S23002G,NEIN,0.013
+all-MiniLM-L6-v2,29,Westerwaldkreis,67K14754-1,JA,0.013
+all-MiniLM-L6-v2,30,Verbundprojekt: Diversitätsgerechter Privatheitsschutz in digitalen Umgebungen - DiversPrivat -,16KIS1877,JA,0.023
+all-MiniLM-L6-v2,31,CLIENT II - Verbundprojekt Klimaschutz: System zur bedarfsgerechten Bereitstellung solarer Prozesswärme für den Trocknungsprozess von Phosphat in Maro,01LZ2007B,JA,0.026
+all-MiniLM-L6-v2,32,DELTA Umwelt-Technik GmbH Gesellschaft für innovative Umwelttechnik Verfahrensentwicklung und Anwendung,02WPM1650B,JA,0.024
+all-MiniLM-L6-v2,33,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,03EN4008E,NEIN,0.016
+all-MiniLM-L6-v2,34,Carl von Ossietzky Universität Oldenburg,13N16354,NEIN,0.015
+all-MiniLM-L6-v2,35,Verbundvorhaben: EMS - Steigerung der Energieeffizienz bei der additiven Fertigung von Mikrobauteilen durch Einsatz eines heißdrahtbasierten Laserauft,03EN4049B,JA,0.02
+all-MiniLM-L6-v2,36,"Verbundprojekt: Methoden zum Austausch von unternehmensbezogenen Daten in treuhänderbasierten Datenökosystemen - MANDAT, Teilvorhaben: Dezentralisiert",16DTM107A,JA,0.017
+all-MiniLM-L6-v2,37,Otto-von-Guericke-Universität Magdeburg,03TR11W02,NEIN,0.013
+all-MiniLM-L6-v2,38,SAP SE,13IPC007,JA,0.011
+all-MiniLM-L6-v2,39,Technische Universität Carolo-Wilhelmina zu Braunschweig,16KIS1193,NEIN,0.016
+all-MiniLM-L6-v2,40,Technische Universität Hamburg,03SX599D,NEIN,0.014
+all-MiniLM-L6-v2,41,"REGULUS - Verbundvorhaben: A-DUR - Revitalisierte Auwälder - Dynamik und Resilienz im Zeichen der Multifunktionalität, Teilprojekt 3",033L308C,JA,0.017
+all-MiniLM-L6-v2,42,Technische Hochschule Mittelhessen,05P21ROFA1,NEIN,0.012
+all-MiniLM-L6-v2,43,"Unterstützung und Verbesserung von traditionellen Methoden in der Bahnbestimmung, sowie der Abschätzung der Unsicherheiten von Bahnelementen durch KI-",50LZ2308,JA,0.022
+all-MiniLM-L6-v2,44,Märkischer Kreis,4401BF0108,NEIN,0.016
+all-MiniLM-L6-v2,45,Technische Hochschule Köln,03EN4031C,NEIN,0.017
+all-MiniLM-L6-v2,46,Vereinigte Informationssysteme Tierhaltung w.V. (vit),16DTM111E,JA,0.019
+all-MiniLM-L6-v2,47,Pflegezentrum Grasberg GmbH,16SM10201D,JA,0.018
+all-MiniLM-L6-v2,48,STAXS - Stochastische Axonsysteme: von räumlicher Dynamik zu Selbstorganisation,01GQ2104,JA,0.02
+all-MiniLM-L6-v2,49,NaNaBatt - Nachhaltige Produktion von Natrium-Ionen-Batterien,03XP0569B,JA,0.016
+all-MiniLM-L6-v2,50,"Verbundprojekt: Selbstgesteuerte Assistenz für die manuelle Montage sowie Kommunikation und Interaktion (SAM-KI), Teilprojekt: Integration der Gesamtl",02L20C533,JA,0.018
+all-MiniLM-L6-v2,51,AIRBUS HELICOPTERS DEUTSCHLAND GmbH,20W1918B,JA,0.011
+all-MiniLM-L6-v2,52,Ruhr-Universität Bochum,05P21PCFP4,NEIN,0.012
+all-MiniLM-L6-v2,53,KSI: Außenbeleuchtung Markthalle Tellingstedt,67K25967,JA,0.013
+all-MiniLM-L6-v2,54,Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Ziff. 5.4 i.V.m. Nr. 3.1 der Förderrichtlinie des Bundes,4411G00579,NEIN,0.018
+all-MiniLM-L6-v2,55,Landkreis Schaumburg,4411G00528,JA,0.012
+all-MiniLM-L6-v2,56,Leibniz-Zentrum für Marine Tropenforschung (ZMT) GmbH,03F0966A,JA,0.016
+all-MiniLM-L6-v2,57,Hochschule Bielefeld ? University of Applied Sciences and Arts (HSBI),03VP09362,NEIN,0.016
+all-MiniLM-L6-v2,58,"Modellregion, Bio4MatPro: BoostLab 5-3 - Glucanes4Tex, Acrylnitril aus erneuerbaren Quellen, TP 1",031B1157A,JA,0.021
+all-MiniLM-L6-v2,59,Verbundvorhaben: Modellierung nachhaltig intelligent (Moni),16DKVS104B,JA,0.016
+all-MiniLM-L6-v2,60,Universität Bremen,03TR07W06A,NEIN,0.016
+all-MiniLM-L6-v2,61,Hochschule Hannover,03EI4028B,NEIN,0.016
+all-MiniLM-L6-v2,62,Hochschule für Technik Stuttgart,03EN1048B,NEIN,0.014
+all-MiniLM-L6-v2,63,Markt Küps,6902BF0392,NEIN,0.013
+all-MiniLM-L6-v2,64,LINC - Veränderte Lipid-Immun-Interaktionen in peripheren Nerven als Pathomechanismus von Polyneuropathien - Identifizierung epigenetischer Methylieru,01EJ2203C,JA,0.02
+all-MiniLM-L6-v2,65,Asantys Systems GmbH,03SF0607D,NEIN,0.011
+all-MiniLM-L6-v2,66,Stadt Haldensleben,67K24617,JA,0.012
+all-MiniLM-L6-v2,67,Airbus Operations GmbH,03B10704A,NEIN,0.012
+all-MiniLM-L6-v2,68,"Verbundprojekt: Agile, durchstimmbare Laser-Architekturen zur Nutzbarmachung des Terahertz-Frequenzbereichs und integrierte Photonik für 6G-Kommunikat",16KISK145,JA,0.021
+all-MiniLM-L6-v2,69,Breitband Ortenau GmbH & Co. KG,6909I00409,NEIN,0.017
+all-MiniLM-L6-v2,70,AIXTRON SE,16MEE0393,JA,0.014
+all-MiniLM-L6-v2,71,ThWIC: Inter- and Transdisciplinarity Leadership Program (INTRALead),03ZU1214TA,JA,0.018
+all-MiniLM-L6-v2,72,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,03EN3069B,NEIN,0.018
+all-MiniLM-L6-v2,73,Leibniz-Institut für Pflanzenbiochemie (IPB),031B1448A,NEIN,0.015
+all-MiniLM-L6-v2,74,datenschutz cert GmbH,01PP21003B,JA,0.014
+all-MiniLM-L6-v2,75,Stadt Datteln,67K26252,JA,0.012
+all-MiniLM-L6-v2,76,Johannes Gutenberg-Universität Mainz,3518685D01,NEIN,0.012
+all-MiniLM-L6-v2,77,Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ,16LW0447,NEIN,0.013
+all-MiniLM-L6-v2,78,Stadt Espelkamp,67K16435,JA,0.012
+all-MiniLM-L6-v2,79,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,16KIS1374K,NEIN,0.013
+all-MiniLM-L6-v2,80,Stadt Taucha,67K21234,NEIN,0.01
+all-MiniLM-L6-v2,81,Julius-Maximilians-Universität Würzburg,20D2113C,NEIN,0.013
+all-MiniLM-L6-v2,82,Kreis Düren,4401BF0082,NEIN,0.011
+all-MiniLM-L6-v2,83,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,01LK2304A,NEIN,0.013
+all-MiniLM-L6-v2,84,Krauts_and_Sprouts,03EGTNW012,NEIN,0.015
+all-MiniLM-L6-v2,85,"Verbundprojekt BiTe: Vorhaben zur Steigerung der Biodiversität in Angebot und Nachfrage der Außer-Haus-Gastronomie, Teilprojekt E",01UT2106E,JA,0.021
+all-MiniLM-L6-v2,86,KiTma e.V. - Strength & Knowlege,66INT11203,JA,0.016
+all-MiniLM-L6-v2,87,Astronomische Gesellschaft e.V.,05A24GAA,JA,0.015
+all-MiniLM-L6-v2,88,Stadt Gundelfingen a.d. Donau,6904WF0180,JA,0.015
+all-MiniLM-L6-v2,89,Forschungsvereinigung Gießereitechnik e.V.,01IF21609N,NEIN,0.017
+all-MiniLM-L6-v2,90,Breitband Ortenau GmbH & Co. KG,6901IF1054,NEIN,0.012
+all-MiniLM-L6-v2,91,Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzwerkeffekten in der Datenproduktion und -verwertung - LuftDatenNet,16DTM116,JA,0.016
+all-MiniLM-L6-v2,92,d.u.h. Group GmbH,03LB2057A,NEIN,0.011
+all-MiniLM-L6-v2,93,Phytowelt GreenTechnologies GmbH,031B1335B,JA,0.014
+all-MiniLM-L6-v2,94,Verbundprojekt SODAH: Smart Object Detection And Handling,01IS24041B,JA,0.015
+all-MiniLM-L6-v2,95,"Verbundvorhaben: TEAM-X - Trusted Ecosystem of Applied Medical Data eXchange, Teilvorhaben: FAU@TEAM-X",68GX21004F,JA,0.018
+all-MiniLM-L6-v2,96,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,VBBMM2434,NEIN,0.019
+all-MiniLM-L6-v2,97,Gemeinde Großhansdorf,67K27342,JA,0.019
+all-MiniLM-L6-v2,98,European Forest Institute,16LW0159,JA,0.017
+all-MiniLM-L6-v2,99,Bernard Technologies GmbH,19S21004E,JA,0.016
+all-MiniLM-L6-v2,100,Universität Hamburg,01GP2214B,NEIN,0.018
+all-MiniLM-L6-v2,101,KSI: LED-Umrüstung Straßenbeleuchtung Stadt Hofheim i. UFr.,67K23903,JA,0.019
+all-MiniLM-L6-v2,102,naymspace software GmbH & Co. KG,16SV9167,JA,0.016
+all-MiniLM-L6-v2,103,"Verbundvorhaben: H2DE - Integriertes vollumfängliches Regio-Wasserstoffkonzept, Teilvorhaben: Entwicklung eines Simulationsmodells zur optimierten, se",03EI3077E,JA,0.02
+all-MiniLM-L6-v2,104,Deutsche Institute für Textil- und Faserforschung Denkendorf (DITF),01MF23001D,JA,0.017
+all-MiniLM-L6-v2,105,NGMedical GmbH,13GW0601B,JA,0.015
+all-MiniLM-L6-v2,106,Technische Universität Darmstadt,16MEE0267,NEIN,0.015
+all-MiniLM-L6-v2,107,"MaSSiF - Materialinnovationen für Schwefel-Silizium-Festkörperbatterien - Design, Aufbau und Bewertung von Prototypzellen",03XP0519B,JA,0.021
+all-MiniLM-L6-v2,108,Forschungsverbund Berlin e.V.,16GW0357K,NEIN,0.016
+all-MiniLM-L6-v2,109,Forward Engineering GmbH,19S22005L,JA,0.014
+all-MiniLM-L6-v2,110,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,01MK24002A,NEIN,0.018
+all-MiniLM-L6-v2,111,TÜV NORD Systems GmbH & Co. KG,19I21039I,JA,0.014
+all-MiniLM-L6-v2,112,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,16SM20123D,NEIN,0.017
+all-MiniLM-L6-v2,113,Universität Duisburg-Essen,03SF0658A,NEIN,0.013
+all-MiniLM-L6-v2,114,Klimaanpassung selbstgemacht - Naturbasierte Lösungen für die Nachbarschaft: Gestaltung und Reaktivierung ungenutzter Flächen durch Entsiegelung und N,372323V340,JA,0.02
+all-MiniLM-L6-v2,115,Goepfert Werkzeug & Formenbau GmbH & Co. Teilefertigung KG,13DR035,JA,0.016
+all-MiniLM-L6-v2,116,Abmusterungsbedingungen für die LED-dominierte Lichtumgebung in der Druck- und Medienindustrie.,01IF23183N,JA,0.018
+all-MiniLM-L6-v2,117,NBS Northern Business School gGmbH,16NISTA02B,JA,0.015
+all-MiniLM-L6-v2,118,Deutsches Forschungszentrum für Künstliche Intelligenz GmbH,13N16405,NEIN,0.017
+all-MiniLM-L6-v2,119,"CO2-WIN - Verbundvorhaben: CO2-WIN-Connect - Vernetzungs- und Transfervorhaben, Teilvorhaben 1: Koordination und Vernetzung",033RC016A,JA,0.021
+all-MiniLM-L6-v2,120,WIR! - CAPTN Energy - Strategieentwicklung,03WIR7703,JA,0.018
+all-MiniLM-L6-v2,121,Modellierung der druck- und temperaturabhängigen Viskosität,01IF22496N,NEIN,0.018
+all-MiniLM-L6-v2,122,LiSyM-Krebs - Phase II - Verbundprojekt: DEEP-HCC - Vertieftes Systemverständnis der Entstehung des hepatozellulären Karzinoms als Grundlage für neue ,031L0315D,JA,0.022
+all-MiniLM-L6-v2,123,Metallfaserverstärktes CFK für schadenstolerante Vorflügelstrukturen,20M2265E,JA,0.02
+all-MiniLM-L6-v2,124,BITSz electronics GmbH,281C502A21,JA,0.013
+all-MiniLM-L6-v2,125,Universität Heidelberg,01EC1907A,NEIN,0.015
+all-MiniLM-L6-v2,126,Caritasverband für das Bistum Aachen e.V.,2524BMV507,JA,0.015
+all-MiniLM-L6-v2,127,Keine Anzeige aufgrund datenschutzrechtlicher Regelungen.,03F0968A,NEIN,0.018
+all-MiniLM-L6-v2,128,Technische Hochschule Wildau (FH),01MS19002A,NEIN,0.016
+all-MiniLM-L6-v2,129,"BTB-Blockheizkraftwerks, Träger- und Betreibergesellschaft mbH Berlin",03EN3026E,NEIN,0.017
+all-MiniLM-L6-v2,130,KSI: Kommunale Wärmeplanung für die Stadt Zirndorf,67K25118,JA,0.017
+all-MiniLM-L6-v2,131,Hochschule Mannheim,01IS23023B,NEIN,0.018
+all-MiniLM-L6-v2,132,Modernisierung der Ausstattung im AusbildungsCampus Köln,21LDA558I,JA,0.019
+all-MiniLM-L6-v2,133,one.five GmbH,13BDA40010,JA,0.019
+all-MiniLM-L6-v2,134,Stadt Wegberg,67K19519,NEIN,0.018
+all-MiniLM-L6-v2,135,"Innovationsraum: BioTexFuture - SmartBioFinish - Umsetzungsphase, TP D",031B1488D,JA,0.019
+all-MiniLM-L6-v2,136,Infrastruktur - Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Nr. 3.1 der Gigabit-RL 2.0 des Bundes,6904WF0776,NEIN,0.023
+all-MiniLM-L6-v2,137,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,20W2214D,NEIN,0.02
+all-MiniLM-L6-v2,138,Ressourcenschonung durch Digitalisierung einer Produktionslinie und RetroFit einer Klebeanlage (JF-KL-RF),13DR023,NEIN,0.02
+all-MiniLM-L6-v2,139,Aerial PV Inspection GmbH,03EE1107E,JA,0.014
+all-MiniLM-L6-v2,140,EDI GmbH,02L19C257,NEIN,0.016
+all-MiniLM-L6-v2,141,KSI: Kommunale Wärmeplanung der VG Aiterhofen,67K27395,JA,0.014
+all-MiniLM-L6-v2,142,Ludwig-Maximilians-Universität München,01KC2005A,NEIN,0.014
+all-MiniLM-L6-v2,143,Kreis Herford,4404WF0042,NEIN,0.016
+all-MiniLM-L6-v2,144,QVLS-iLabs: Quantum-Gravimeter mit fortschrittlichen LIDE-basierten Atomchips (Q-GALA) - C,03ZU1209KC,JA,0.019
+all-MiniLM-L6-v2,145,fortiss GmbH,67KI21007F,JA,0.014
+all-MiniLM-L6-v2,146,Friedrich-Alexander-Universität Erlangen-Nürnberg,02J19B062,NEIN,0.019
+all-MiniLM-L6-v2,147,Bundesanstalt für Straßenwesen (BASt),45AVF2002F,JA,0.017
+all-MiniLM-L6-v2,148,KMU-innovativ - Verbundprojekt dqualizer: Domänenzentrierte Laufzeitqualitätsanalyse geschäftskritischer Anwendungssysteme,01IS22007B,JA,0.021
+all-MiniLM-L6-v2,149,Universität Heidelberg,16LW0161K,NEIN,0.016
+all-MiniLM-L6-v2,150,"Verbundprojekt: Genetische Analyse und Modellierung der Weizen-Rostinteraktion zur Entwicklung stabiler, mehrfachresistenter Weizensorten (RustHealth)",281D120C21,JA,0.022

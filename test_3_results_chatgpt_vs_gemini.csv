@@ -1,0 +1,667 @@
+category,original_query,query,expected_fkz,retrieval_hit,gemini_time,gemini_mentions_fkz,gemini_answer,chatgpt_time,chatgpt_mentions_fkz,chatgpt_answer
+simple,datenschutz cert GmbH,Wer ist der Zuwendungsempfänger des Projekts zum Thema 'directions - data protection certification for educational i'?,01PP21003B,True,4.61,True,"Die Zuwendungsempfänger der Projekte zum Thema 'directions - data protection certification for educational information systems' sind:
+
+*   **Empfänger:** datenschutz cert gmbh
+    *   **FKZ:** 01pp21003b
+    *   **Fördersumme:** 442252.00 EUR
+*   **Empfänger:** karlsruher institut für technologie (universitätsaufgabe)
+    *   **FKZ:** 01pp21003a
+    *   **Fördersumme:** 3244481.00 EUR
+*   **Empfänger:** universität kassel
+    *   **FKZ:** 01pp21003c
+    *   **Fördersumme:** 2039405.00 EUR
+*   **Empfänger:** kompetenznetzwerk trusted cloud e.v.
+    *   **FKZ:** 01pp21003d
+    *   **Fördersumme:** 496297.00 EUR",1.83,True,"Der Zuwendungsempfänger des Projekts zum Thema 'directions - data protection certification for educational information systems' ist:
+
+1. Datenschutz cert GmbH (FKZ: 01pp21003b, Fördersumme: 442,252.00 EUR)
+2. Karlsruher Institut für Technologie (Universitätsaufgabe) (FKZ: 01pp21003a, Fördersumme: 3,244,481.00 EUR)
+3. Universität Kassel (FKZ: 01pp21003c, Fördersumme: 2,039,405.00 EUR)
+4. Kompetenznetzwerk Trusted Cloud e.V. (FKZ: 01pp21003d, Fördersumme: 496,297.00 EUR)"
+simple,KSI: Erstellung eines integrierten Klimaschutzkonzeptes durch ein Klimaschutzmanagement für die Hochschule Reutlingen (Klimacampus RT),Wie hoch ist die Fördersumme für das Projekt 'ksi: erstellung eines integrierten klimaschutzkonzeptes durc' von 'hochschule reutlingen'?,67K16726,True,2.93,True,"Die Fördersumme für das Projekt 'ksi: erstellung eines integrierten klimaschutzkonzeptes durch ein klimaschutzmanagement für die hochschule reutlingen (klimacampus rt)' von 'hochschule reutlingen' beträgt 141686.00 EUR.
+
+Hier sind die relevanten Informationen zu dem Projekt:
+*   **FKZ:** 67k16726
+*   **Empfänger:** hochschule reutlingen
+*   **Thema:** ksi: erstellung eines integrierten klimaschutzkonzeptes durch ein klimaschutzmanagement für die hochschule reutlingen (klimacampus rt)
+*   **Fördersumme:** 141686.00 EUR",1.11,True,"Die Fördersumme für das Projekt 'ksi: erstellung eines integrierten klimaschutzkonzeptes durch' von 'hochschule reutlingen' beträgt 141.686,00 EUR.
+
+Relevante Informationen:
+- FKZ: 67k16726
+- Empfänger: Hochschule Reutlingen
+- Fördersumme: 141.686,00 EUR"
+simple,"CO2-WIN - Verbundvorhaben: CO2-WIN-Connect - Vernetzungs- und Transfervorhaben, Teilvorhaben 1: Koordination und Vernetzung",Welches Projekt zum Thema 'co2-win - verbundvorhaben: co2-win-connect - vernetzungs- un' wird von 'dechema gesellschaft für chemische technik und bio' durchgeführt?,033RC016A,True,8.33,True,"Das folgende Projekt entspricht den Kriterien:
+
+*   **FKZ**: 033rc016a
+*   **Empfänger**: dechema gesellschaft für chemische technik und biotechnologie e.v.
+*   **Thema**: co2-win - verbundvorhaben: co2-win-connect - vernetzungs- und transfervorhaben, teilvorhaben 1: koordination und vernetzung
+*   **Fördersumme**: 890437.00 EUR",1.66,True,"Das Projekt zum Thema 'co2-win - verbundvorhaben: co2-win-connect - vernetzungs- und' wird von der 'dechema gesellschaft für chemische technik und biotechnologie e.v.' durchgeführt ist:
+
+- **FKZ:** 033rc016a
+- **Empfänger:** dechema gesellschaft für chemische technik und biotechnologie e.v.
+- **Thema:** co2-win - verbundvorhaben: co2-win-connect - vernetzungs- und transfervorhaben, teilvorhaben 1: koordination und vernetzung
+- **Fördersumme:** 890437.00 EUR"
+simple,Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein,"Nenne mir die FKZ des Projekts 'verbundprojekt: privatheit, demokratie und selbstbestimmung '",16KIS1374K,True,10.08,True,"Die folgenden Projekte sind Teil des Verbundprojekts 'privatheit, demokratie und selbstbestimmung im zeitalter von ki und globalisierung - prids -':
+
+*   **FKZ:** 16kis1379, **Empfänger:** universität kassel, **Fördersumme:** 407729.00 EUR
+*   **FKZ:** 16kis1375, **Empfänger:** ludwig-maximilians-universität münchen, **Fördersumme:** 382280.00 EUR
+*   **FKZ:** 16kis1380, **Empfänger:** eberhard karls universität tübingen, **Fördersumme:** 445578.00 EUR
+*   **FKZ:** 16kis1378, **Empfänger:** universität kassel, **Fördersumme:** 365571.00 EUR
+*   **FKZ:** 16kis1374k, **Empfänger:** fraunhofer-gesellschaft zur förderung der angewandten forschung eingetragener verein, **Fördersumme:** 674125.00 EUR
+*   **FKZ:** 16kis1377, **Empfänger:** universität duisburg-essen, **Fördersumme:** 391112.00 EUR
+*   **FKZ:** 16kis1376, **Empfänger:** unabhängiges landeszentrum für datenschutz schleswig-holstein (uld), **Fördersumme:** 285387.00 EUR",12.18,True,"Die Projekte, die unter dem Thema ""verbundprojekt: privatheit, demokratie und selbstbestimmung im zeitalter von ki und globalisierung - prids -"" gelistet sind, haben die folgenden Förderkennzeichen (FKZ):
+
+1. FKZ: 16kis1379, Empfänger: Universität Kassel, Fördersumme: 407.729,00 EUR
+2. FKZ: 16kis1375, Empfänger: Ludwig-Maximilians-Universität München, Fördersumme: 382.280,00 EUR
+3. FKZ: 16kis1380, Empfänger: Eberhard Karls Universität Tübingen, Fördersumme: 445.578,00 EUR
+4. FKZ: 16kis1378, Empfänger: Universität Kassel, Fördersumme: 365.571,00 EUR
+5. FKZ: 16kis1374k, Empfänger: Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung eingetragener Verein, Fördersumme: 674.125,00 EUR
+6. FKZ: 16kis1377, Empfänger: Universität Duisburg-Essen, Fördersumme: 391.112,00 EUR
+7. FKZ: 16kis1376, Empfänger: Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD), Fördersumme: 285.387,00 EUR"
+simple,Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum GFZ,Welche Organisation führt das Projekt 'biodivki: beobachtung und vorhersage mikrobieller diversität' aus?,16LW0447,True,2.67,True,"Die Organisation, die das Projekt 'biodivki: beobachtung und vorhersage mikrobieller diversität' ausführt, ist das **helmholtz-zentrum potsdam deutsches geoforschungszentrum gfz**.
+
+Hier sind die relevanten Projektinformationen:
+*   **FKZ:** 16lw0447
+*   **Empfänger:** helmholtz-zentrum potsdam deutsches geoforschungszentrum gfz
+*   **Fördersumme:** 99677.00 EUR",4.09,True,"Das Projekt ""biodivki: Beobachtung und Vorhersage mikrobieller Diversität und deren Interaktionen mit der Umwelt mithilfe von künstlicher Intelligenz (mikrokiez)"" wird vom Helmholtz-Zentrum Potsdam Deutsches Geoforschungszentrum GFZ ausgeführt. Die Förderkennzeichen (FKZ) ist 16lw0447, und die Fördersumme beträgt 99.677,00 EUR."
+simple,DELTA Umwelt-Technik GmbH Gesellschaft für innovative Umwelttechnik Verfahrensentwicklung und Anwendung,Gib mir alle Informationen zum Projekt 'prima - kooperationsprojekt agreemed: innovative aquifer gov',02WPM1650B,True,3.91,True,"Hier sind die Informationen zu den Projekten, die dem Thema 'prima - kooperationsprojekt agreemed: innovative aquifer gov' entsprechen:
+
+**FKZ: 02wpm1650b**
+*   **Empfänger:** delta umwelt-technik gmbh gesellschaft für innovative umwelttechnik verfahrensentwicklung und anwendung
+*   **Thema:** prima - kooperationsprojekt agreemed: innovative aquifer governance für eine resiliente wasserwirtschaft und nachhaltige ökosysteme in belasteten landwirtschaftlichen gebieten des mittelmeerraums, teilprojekt 2
+*   **Fördersumme:** 133000.00 EUR
+
+**FKZ: 02wpm1650a**
+*   **Empfänger:** technische universität berlin
+*   **Thema:** prima - kooperationsprojekt agreemed: innovative aquifer governance für eine resiliente wasserwirtschaft und nachhaltige ökosysteme in belasteten landwirtschaftlichen gebieten des mittelmeerraums, teilprojekt 1
+*   **Fördersumme:** 373968.00 EUR",2.76,True,"Hier sind die Informationen zu den Projekten im Rahmen des ""PRIMA - Kooperationsprojekts Agreemed: Innovative Aquifer Governance"":
+
+1. **Teilprojekt 1:**
+   - **FKZ:** 02wpm1650a
+   - **Empfänger:** Technische Universität Berlin
+   - **Fördersumme:** 373.968,00 EUR
+
+2. **Teilprojekt 2:**
+   - **FKZ:** 02wpm1650b
+   - **Empfänger:** Delta Umwelt-Technik GmbH Gesellschaft für innovative Umwelttechnik Verfahrensentwicklung und Anwendung
+   - **Fördersumme:** 133.000,00 EUR
+
+Diese Projekte fokussieren sich auf innovative Governance-Ansätze für Aquifere, um eine resiliente Wasserwirtschaft und nachhaltige Ökosysteme in belasteten landwirtschaftlichen Gebieten des Mittelmeerraums zu fördern."
+simple,Asantys Systems GmbH,Was ist die Förderkennzeichnung für das Projekt 'client ii - verbundvorhaben art-d_grids: africa research and' bei 'asantys systems gmbh'?,03SF0607D,True,2.84,True,"Die Förderkennzeichnung für das Projekt 'client ii - verbundvorhaben art-d_grids: africa research and' bei 'asantys systems gmbh' ist **03sf0607d**.
+
+Hier sind die relevanten Informationen zu diesem Projekt:
+*   **FKZ:** 03sf0607d
+*   **Empfänger:** asantys systems gmbh
+*   **Thema:** client ii - verbundvorhaben art-d_grids: africa research and teaching platform for development - sustainable modular grids for grid stability / entwicklung under softwareplattform für nachhaltige projektverwaltung
+*   **Fördersumme:** 223295.00 EUR",6.35,True,"Die Förderkennzeichnung für das Projekt ""client ii - verbundvorhaben art-d_grids: africa research and"" bei ""asantys systems gmbh"" ist **FKZ: 03sf0607d**. Die Fördersumme für dieses Projekt beträgt 223.295,00 EUR."
+simple,Ludwig-Maximilians-Universität München,Wer erhält Förderung für das Projekt 'contract - präklinische konfirmatorische studie zum nutzen d'?,01KC2005A,True,5.59,True,"Für das Projekt 'contract - präklinische konfirmatorische studie zum nutzen d' erhalten folgende Empfänger Förderung:
+
+*   **Ludwig-Maximilians-Universität München**
+    *   FKZ: 01kc2005b
+    *   Thema: contract - präklinische konfirmatorische studie zum nutzen des c-c-motiv rezeptor-8 in der anlockung von antigen-spezifischen t-zellen zu tumoren für die krebsbehandlung, datenmanagement und datenanalyse
+    *   Fördersumme: 212885.00 EUR
+*   **Ludwig-Maximilians-Universität München**
+    *   FKZ: 01kc2005a
+    *   Thema: contract - präklinische konfirmatorische studie zum nutzen des c-c-motiv rezeptor-8 in der anlockung von antigen-spezifischen t-zellen zu tumoren für die krebsbehandlung, studienteil am klinikum der universität münchen, projektleitung
+    *   Fördersumme: 760400.00 EUR
+*   **Stiftung Leibnitz-Institut für Immunologie**
+    *   FKZ: 01kc2005c
+    *   Thema: contract - präklinische konfirmatorische studie zum nutzen des c-c-motiv rezeptor-8 in der anlockung von antigen-spezifischen t-zellen zu tumoren für die krebsbehandlung, studienteil regensburg
+    *   Fördersumme: 466844.00 EUR",3.23,True,"Das Projekt ""contract - präklinische konfirmatorische studie zum nutzen des c-c-motiv rezeptor-8 in der anlockung von antigen-spezifischen t-zellen zu tumoren für die krebsbehandlung"" wird von folgenden Empfängern gefördert:
+
+1. Ludwig-Maximilians-Universität München
+   - FKZ: 01kc2005b
+   - Fördersumme: 212.885,00 EUR
+
+2. Ludwig-Maximilians-Universität München
+   - FKZ: 01kc2005a
+   - Fördersumme: 760.400,00 EUR
+
+3. Stiftung Leibnitz-Institut für Immunologie
+   - FKZ: 01kc2005c
+   - Fördersumme: 466.844,00 EUR
+
+Diese drei Projekte sind Teil der präklinischen konfirmatorischen Studie zum Nutzen des C-C-Motiv Rezeptor-8 in der Anlockung von antigen-spezifischen T-Zellen zu Tumoren für die Krebsbehandlung."
+simple,Breitband Ortenau GmbH & Co. KG,Beschreibe das Projekt 'ausbau der breitbandinfrastruktur nach dem betreibermodell n' von 'breitband ortenau gmbh & co. kg',6909I00409,True,26.82,True,"Die ""breitband ortenau gmbh & co. kg"" hat mehrere Projekte zum ""Ausbau der Breitbandinfrastruktur nach dem Betreibermodell"" erhalten. Diese Projekte zielen darauf ab, die Breitbandinfrastruktur gemäß den Vorgaben der Förderrichtlinie des Bundes (spezifisch nach Ziffer 5.4 i.V.m. Nr. 3.2, Ziffer 5.5 i.V.m. Nr. 3.2 oder Nr. 3.2) zu erweitern.
+
+Im Folgenden sind die relevanten Projekte aufgeführt:
+
+*   **FKZ:** 6911g00670, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 531400.00 EUR
+*   **FKZ:** 6911g00681, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 310400.00 EUR
+*   **FKZ:** 6911g00756, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 100960.00 EUR
+*   **FKZ:** 6911g00492, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 350000.00 EUR
+*   **FKZ:** 6911g00485, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 650000.00 EUR
+*   **FKZ:** 6911g00484, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 682000.00 EUR
+*   **FKZ:** 6911g00469, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 291750.00 EUR
+*   **FKZ:** 6911g00494, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 290000.00 EUR
+*   **FKZ:** 6911g00493, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 140000.00 EUR
+*   **FKZ:** 6912i00252, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 383125.00 EUR
+*   **FKZ:** 6912i00268, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 404960.00 EUR
+*   **FKZ:** 6912i00173, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 50000.00 EUR
+*   **FKZ:** 6912i00308, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 245200.00 EUR
+*   **FKZ:** 6912i00166, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 1013000.00 EUR
+*   **FKZ:** 6912i00175, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 350000.00 EUR
+*   **FKZ:** 6912i00172, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 90000.00 EUR
+*   **FKZ:** 6912i00177, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 262800.00 EUR
+*   **FKZ:** 6909i00547, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 694560.00 EUR
+*   **FKZ:** 6909i00544, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 469920.00 EUR
+*   **FKZ:** 6909i00405, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 3100000.00 EUR
+*   **FKZ:** 6909i00793, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 790350.00 EUR
+*   **FKZ:** 6909i00409, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 2520000.00 EUR
+*   **FKZ:** 6909i00469, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 1608000.00 EUR
+*   **FKZ:** 6909i00396, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 1125000.00 EUR
+*   **FKZ:** 6909i00395, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 2667500.00 EUR
+*   **FKZ:** 6909i00393, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 1350000.00 EUR
+*   **FKZ:** 6909i00398, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 3118000.00 EUR
+*   **FKZ:** 6909i00455, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 3826000.00 EUR
+*   **FKZ:** 6909i00404, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 950000.00 EUR
+*   **FKZ:** 6909i00515, **Empfänger:** breitband ortenau gmbh & co. kg, **Fördersumme:** 457500.00 EUR
+
+Die gesamte Fördersumme für diese Projekte beläuft sich auf **29.123.425,00 EUR**.",15.6,True,"Das Projekt ""ausbau der breitbandinfrastruktur nach dem betreibermodell n"" von ""breitband ortenau gmbh & co. kg"" kann ich nicht direkt aus den gegebenen Informationen identifizieren, da kein Projekt exakt mit dieser Beschreibung übereinstimmt. Es gibt jedoch mehrere Projekte, die sich mit dem Ausbau der Breitbandinfrastruktur nach dem Betreibermodell befassen. Diese Projekte sind nach verschiedenen Ziffern und Nummern der Förderrichtlinie des Bundes kategorisiert.
+
+Hier sind die relevanten Projekte mit dem Thema Ausbau der Breitbandinfrastruktur nach dem Betreibermodell:
+
+1. **FKZ: 6909i00405**
+   - Empfänger: breitband ortenau gmbh & co. kg
+   - Fördersumme: 3,100,000.00 EUR
+
+2. **FKZ: 6909i00409**
+   - Empfänger: breitband ortenau gmbh & co. kg
+   - Fördersumme: 2,520,000.00 EUR
+
+3. **FKZ: 6909i00398**
+   - Empfänger: breitband ortenau gmbh & co. kg
+   - Fördersumme: 3,118,000.00 EUR
+
+4. **FKZ: 6909i00455**
+   - Empfänger: breitband ortenau gmbh & co. kg
+   - Fördersumme: 3,826,000.00 EUR
+
+5. **FKZ: 6909i00395**
+   - Empfänger: breitband ortenau gmbh & co. kg
+   - Fördersumme: 2,667,500.00 EUR
+
+Diese Projekte sind nach der Fördersumme sortiert und gehören alle zur breitband ortenau gmbh & co. kg. Sie befassen sich mit dem Ausbau der Breitbandinfrastruktur nach dem Betreibermodell, jedoch ohne eine spezifische Ziffer oder Nummer wie ""n"" in der Beschreibung."
+simple,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Wie lautet die FKZ und Fördersumme für das Projekt 'itms - modul q & s ii - torch: charakterisierung der unsiche'?,01LK2304A,True,3.05,True,"Die FKZ und Fördersumme für das Projekt 'itms - modul q & s ii - torch: charakterisierung der unsiche' lauten:
+
+*   **FKZ:** 01lk2304a
+*   **Fördersumme:** 267936.00 EUR
+
+**Zusätzliche relevante Informationen:**
+*   **Empfänger:** max-planck-gesellschaft zur förderung der wissenschaften e.v.",2.39,True,"Die FKZ für das Projekt ""itms - modul q & s ii - torch: charakterisierung der unsicherheit für hochauflösende ki-basierte biogene co2-flüsse"" lautet 01lk2304a, und die Fördersumme beträgt 267.936,00 EUR. Der Empfänger ist die Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V."
+creative,Leibniz-Institut für Pflanzenbiochemie (IPB),Welche bahnbrechenden Initiativen gibt es im Bereich 'Leibniz-Institut für Pflanzenbiochemie (IPB)'?,031B1448A,False,22.79,False,"Basierend auf den bereitgestellten Projekten gibt es im Bereich des Leibniz-Instituts für Pflanzenbiochemie (IPB) mehrere Initiativen, die als bahnbrechend eingestuft werden können, insbesondere in den Bereichen Biotechnologie, nachhaltiger Pflanzenschutz, Epigenetik und Bioökonomie.
+
+Hier sind die Projekte, sortiert nach Fördersumme (absteigend):
+
+*   **FKZ:** 031b1442a
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** dip: biocasnavi - eine ki-plattform für die schnelle erstellung biokatalytischer kaskaden für innovative bioprozesse (teilvorhaben a)
+    **Fördersumme:** 1093831.00 EUR
+    *Begründung für ""bahnbrechend"":* Die Entwicklung einer KI-Plattform für die schnelle Erstellung biokatalytischer Kaskaden ist ein hochinnovativer Ansatz, der die Entwicklung neuer Bioprozesse revolutionieren kann.
+
+*   **FKZ:** 031b1455a
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** dip: phosfect - nachhaltige produktionstechnologien für verbesserte, phospholipid-basierte transfektionsagenzien- teilvorhaben a
+    **Fördersumme:** 875254.00 EUR
+    *Begründung für ""bahnbrechend"":* Nachhaltige Produktionstechnologien für verbesserte Transfektionsagenzien sind entscheidend für Fortschritte in der Gentechnik und Biotechnologie und adressieren gleichzeitig ökologische Aspekte.
+
+*   **FKZ:** 281d204a22
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** verbundprojekt: nutzung von herbiziden aus holzzerstörenden schadpilzen als biologische alternative zu chemischem pflanzenschutz (fungalkine) - teilprojekt a
+    **Fördersumme:** 434731.00 EUR
+    *Begründung für ""bahnbrechend"":* Die Erforschung von Herbiziden aus Schadpilzen als biologische Alternative zu chemischem Pflanzenschutz ist ein wegweisender Ansatz für eine umweltfreundlichere Landwirtschaft.
+
+*   **FKZ:** 031b1341b
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** maßgeschneiderte inhaltsstoffe 2. 2 - verbundvorhaben: feruchain 2.2 - biotechnologische ferulasäureproduzenten als chassis für stoffwechselwege zu hochwertigen pflanzenprodukten- teilprojekt b
+    **Fördersumme:** 411827.00 EUR
+    *Begründung für ""bahnbrechend"":* Die biotechnologische Produktion hochwertiger Pflanzenprodukte durch Stoffwechselwege ist ein zentraler Pfeiler der Bioökonomie und ermöglicht die nachhaltige Gewinnung wertvoller Substanzen.
+
+*   **FKZ:** 031b1233
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** epic-epigenetik: glykierung von core-histonen als epigenetischer mechanismus der trocken-toleranz bei pflanzen - epiglyc
+    **Fördersumme:** 399559.00 EUR
+    *Begründung für ""bahnbrechend"":* Die Aufklärung epigenetischer Mechanismen wie die Glykierung von Histonen zur Verbesserung der Trocken-Toleranz bei Pflanzen ist ein hochmodernes Forschungsfeld mit großem Potenzial für die Pflanzenzüchtung.
+
+*   **FKZ:** 16lw0529
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** biodivgesundheit2: diversifizierung von pflanzenbausystemen für die gemeinsame gesundheit von böden, pflanzen und menschen (dcrops4onehealth-2) - sekundäre pflanzeninhaltsstoffe
+    **Fördersumme:** 321267.00 EUR
+    *Begründung für ""bahnbrechend"":* Dieser ganzheitliche Ansatz zur Diversifizierung von Pflanzenbausystemen, um die Gesundheit von Böden, Pflanzen und Menschen zu fördern, ist ein fundamentales Paradigma für nachhaltige Landwirtschaft und ""One Health"".
+
+Weitere Projekte des IPB, die ebenfalls innovativ sind, aber möglicherweise nicht im Sinne von ""bahnbrechenden Initiativen"" im Vergleich zu den oben genannten:
+
+*   **FKZ:** 031b1449c
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** dip: lefos: 'gewinnung von levanen und fructo-oligosacchariden des levantyps aus reststoffen der zuckerrübenverarbeitung - teilvorhaben c'
+    **Fördersumme:** 235585.00 EUR
+    *Begründung:* Wertschöpfung aus Reststoffen ist ein wichtiger Bioökonomie-Ansatz.
+
+*   **FKZ:** 2822oe202
+    **Empfänger:** leibniz-institut für pflanzenbiochemie (ipb)
+    **Thema:** die freiland-tomate - busch- und stabtomate - soll durch ökologische züchtung und züchtungsforschung als neue kultur für den ökologischen anbau etabliert werden
+    **Fördersumme:** 85622.00 EUR
+    *Begründung:* Wichtig für den ökologischen Landbau, aber eher angewandte Züchtungsforschung.",4.65,False,"Im Bereich des 'Leibniz-Institut für Pflanzenbiochemie (IPB)' gibt es mehrere bemerkenswerte Initiativen. Hier sind einige der Projekte, geordnet nach der Fördersumme:
+
+1. **DIP: Biocasnavi - KI-Plattform für biokatalytische Kaskaden**
+   - **FKZ:** 031b1442a
+   - **Fördersumme:** 1.093.831,00 EUR
+
+2. **DIP: Phosfect - nachhaltige Produktionstechnologien für Transfektionsagenzien**
+   - **FKZ:** 031b1455a
+   - **Fördersumme:** 875.254,00 EUR
+
+3. **Verbundprojekt: Nutzung von Herbiziden aus holzzerstörenden Schadpilzen**
+   - **FKZ:** 281d204a22
+   - **Fördersumme:** 434.731,00 EUR
+
+4. **EPIC-Epigenetik: Glykierung von Core-Histonen**
+   - **FKZ:** 031b1233
+   - **Fördersumme:** 399.559,00 EUR
+
+5. **DIP: Lefos - Gewinnung von Levanen und Fructo-Oligosacchariden**
+   - **FKZ:** 031b1449c
+   - **Fördersumme:** 235.585,00 EUR
+
+6. **Maßgeschneiderte Inhaltsstoffe 2.2 - Feruchain 2.2**
+   - **FKZ:** 031b1341b
+   - **Fördersumme:** 411.827,00 EUR
+
+7. **BiodivGesundheit2: Diversifizierung von Pflanzenbausystemen**
+   - **FKZ:** 16lw0529
+   - **Fördersumme:** 321.267,00 EUR
+
+8. **Ökologische Züchtung von Freiland-Tomaten**
+   - **FKZ:** 2822oe202
+   - **Fördersumme:** 85.622,00 EUR
+
+Diese Projekte verdeutlichen die vielfältigen Forschungsanstrengungen des IPB, die von der Entwicklung biotechnologischer Verfahren über epigenetische Studien bis hin zu nachhaltigen Pflanzenschutzmethoden reichen."
+creative,Universität Duisburg-Essen,"Zeige mir Leuchtturmprojekte, die sich mit 'Universität Duisburg-Essen' beschäftigen",03SF0658A,False,17.98,False,"Basierend auf den vorliegenden Projektdaten konnte kein Projekt gefunden werden, das explizit als ""Leuchtturmprojekt"" bezeichnet wird und die ""Universität Duisburg-Essen"" als Empfänger hat.
+
+Die Projekte, die den Begriff ""Leuchtturm"" im Thema tragen (FKZ: 01un2202c, FKZ: 01un2202b, FKZ: 01un2202a), sind anderen Universitäten (Osnabrück, Münster, Siegen) zugeordnet.",13.33,False,"Hier sind die Leuchtturmprojekte, die sich mit der ""Universität Duisburg-Essen"" beschäftigen:
+
+1. **Projekt: Open-Source-Entwurfs- und Visualisierungsumgebung für dynamisch konfigurierbare Mikrochips (DI-FENTWUMS)**
+   - FKZ: 16me0984
+   - Fördersumme: 235.590,00 EUR
+
+2. **Projekt: Technologieoffene Energiesystemanalyse zur Ableitung von Handlungsmaßnahmen für die Dekarbonisierung urbaner Wärmenetze (TEOS)**
+   - FKZ: 03ei1060a
+   - Fördersumme: 496.061,00 EUR
+
+3. **Projekt: Open 6G Hub - Open6GHUB**
+   - FKZ: 16kisk017
+   - Fördersumme: 903.564,00 EUR
+
+4. **Projekt: EnArgus 3.0 - KI-gestütztes Informationssystem Energieforschungsförderung**
+   - FKZ: 03ei1062c
+   - Fördersumme: 413.671,00 EUR
+
+5. **Projekt: Radikaler Islam versus radikaler Anti-Islam**
+   - FKZ: 01ug2032a
+   - Fördersumme: 1.086.767,00 EUR
+
+6. **Projekt: Open-Source-Design-Kit für strahlungsharte Mikroelektronik in der Raumfahrt und Medizintechnik (DI-FLOWSPACE)**
+   - FKZ: 16me0989
+   - Fördersumme: 330.692,00 EUR
+
+7. **Projekt: Unit-E² - Reallabor für vernetzte E-Mobilität**
+   - FKZ: 01mv21un03
+   - Fördersumme: 258.804,00 EUR
+
+8. **Projekt: Nachhaltige Speicher- und Energieverteilungssysteme in kleineren und mittleren Kommunen (NEKOM)**
+   - FKZ: 03en3103b
+   - Fördersumme: 293.030,00 EUR
+
+9. **Projekt: Graphen als funktionale Schicht in UVC-LEDs (GRAFUNKL)**
+   - FKZ: 13n16938
+   - Fördersumme: 727.326,00 EUR
+
+10. **Projekt: NextStep - Network Monitoring Extension for Smart Technology Planning**
+    - FKZ: 03ei6107a
+    - Fördersumme: 881.538,00 EUR
+
+11. **Projekt: Exist-Forschungstransfer: RedCableRobots**
+    - FKZ: 03efvnw324
+    - Fördersumme: 1.123.110,00 EUR
+
+12. **Projekt: Innovation in der Lieferkette von Zitrusfrüchten und Nebenprodukten im Mittelmeerraum (PRIMA)**
+    - FKZ: 01dh21014a
+    - Fördersumme: 535.333,00 EUR
+
+13. **Projekt: Mentoring and Empowering Girls and FLINTA of Colour (BuildingBridges)**
+    - FKZ: 66int11303
+    - Fördersumme: 328.732,00 EUR
+
+14. **Projekt: Digitalisierung und interdisziplinäre Auslegungstechnologien von Turbomaschinen (DIGITECT)**
+    - FKZ: 03ee5117i
+    - Fördersumme: 147.712,00 EUR
+
+15. **Projekt: Sektortransformation im Energiesystem (STEAM)**
+    - FKZ: 03ei1043b
+    - Fördersumme: 469.833,00 EUR
+
+16. **Projekt: Ladungsmoderierte Planetenentstehung**
+    - FKZ: 50wm2346
+    - Fördersumme: 305.334,00 EUR
+
+17. **Projekt: ComeArts - Fortbilden durch Vernetzen**
+    - FKZ: 01ja23k01a
+    - Fördersumme: 157.377,00 EUR
+
+18. **Projekt: Materialforschung an Beton in Schwerelosigkeit**
+    - FKZ: 50wm2072
+    - Fördersumme: 276.961,00 EUR
+
+19. **Projekt: AIMS: AIDEX - Künstliche Intelligenz für Staubexperimente**
+    - FKZ: 50wk2270c
+    - Fördersumme: 277.364,00 EUR
+
+20. **Projekt: Smarte Videotutorials für die Arbeitspraxis in Augmented Reality (Smartorials)**
+    - FKZ: 02l20c014
+    - Fördersumme: 342.124,00 EUR
+
+21. **Projekt: FB2-Hybrid - Querschnittsplattform Hybridisierung**
+    - FKZ: 03xp0428d
+    - Fördersumme: 284.548,00 EUR
+
+22. **Projekt: Rhein-Ruhr Zentrum für Wissenschaftliche Datenkompetenz (DKZ2R)**
+    - FKZ: 16dkz2030h
+    - Fördersumme: 287.273,00 EUR
+
+23. **Projekt: Turbogruen - Turbomaschinen für Energiespeicher und grüne Brennstoffe**
+    - FKZ: 03ee5069i
+    - Fördersumme: 183.208,00 EUR
+
+24. **Projekt: Spannungs-Mess-System für HGÜ 4.0 (SMS4HGÜ)**
+    - FKZ: 03ei6003b
+    - Fördersumme: 434.491,00 EUR
+
+25. **Projekt: Etablierung des Karrierewegs der Tenure-Track-Professur**
+    - FKZ: 16ttp090
+    - Fördersumme: 21.363.795,00 EUR
+
+26. **Projekt: VASKUM - Vergleich der Auswirkung von Hypergravitation**
+    - FKZ: 50rp2340a
+    - Fördersumme: 274.010,00 EUR
+
+Diese Projekte umfassen eine Vielzahl von Themen, darunter Mikrochip-Design, Energiesystemanalyse, 6G-Technologien, Islamforschung, E-Mobilität, Energiespeicherung, und viele weitere."
+creative,one.five GmbH,Welche innovativen Ansätze werden bei 'one.five GmbH' verfolgt?,13BDA40010,True,2.63,True,"Die one.five GmbH verfolgt folgende innovative Ansätze:
+
+*   **FKZ:** 13bda40010, **Empfänger:** one.five gmbh, **Thema:** innovative hochbarriereverpackung auf basis von zellulose (ihbv) - agvo, **Fördersumme:** 203567.00 EUR
+    *   **Innovativer Ansatz:** Entwicklung einer innovativen Hochbarriereverpackung, die auf Zellulose basiert.
+
+*   **FKZ:** 13bda40011, **Empfänger:** one.five gmbh, **Thema:** innovative hochbarriereverpackung auf basis von zellulose (ihbv) - de-minimis, **Fördersumme:** 24000.00 EUR
+    *   **Innovativer Ansatz:** (Weiterführung des Projekts zur) Entwicklung einer innovativen Hochbarriereverpackung, die auf Zellulose basiert.
+
+*   **FKZ:** 031b0915v, **Empfänger:** one.five gmbh, **Thema:** innovationsraum: bams-kcvb - kultivierung von außergewöhnlich cyanophycinhaltigen cyanobakterien und deren verarbeitung zu hochpreisigen biokunststoff-anwendungen - umsetzungsphase, **Fördersumme:** 203757.00 EUR
+    *   **Innovativer Ansatz:** Kultivierung von außergewöhnlich cyanophycinhaltigen Cyanobakterien und deren Verarbeitung zu hochpreisigen Biokunststoff-Anwendungen.",4.62,True,"Bei der 'one.five GmbH' werden folgende innovativen Ansätze verfolgt:
+
+1. **Innovative Hochbarriereverpackung auf Basis von Zellulose (IHBV) - AGVO**: Dieses Projekt zielt darauf ab, Verpackungen zu entwickeln, die eine hohe Barrierewirkung aufweisen und auf Zellulose basieren. Es wird durch das AGVO-Programm gefördert.  
+   - **Fördersumme**: 203.567,00 EUR  
+   - **FKZ**: 13bda40010
+
+2. **Innovative Hochbarriereverpackung auf Basis von Zellulose (IHBV) - De-minimis**: Dieses Projekt verfolgt ähnliche Ziele wie das vorherige, jedoch unter dem De-minimis-Programm.  
+   - **Fördersumme**: 24.000,00 EUR  
+   - **FKZ**: 13bda40011
+
+3. **Innovationsraum: BAMS-KCVB - Kultivierung von außergewöhnlich cyanophycinhaltigen Cyanobakterien und deren Verarbeitung zu hochpreisigen Biokunststoff-Anwendungen - Umsetzungsphase**: In diesem Projekt wird die Kultivierung spezieller Cyanobakterien erforscht, die für die Herstellung von Biokunststoffen genutzt werden können.  
+   - **Fördersumme**: 203.757,00 EUR  
+   - **FKZ**: 031b0915v
+
+Diese Projekte zeigen, dass die 'one.five GmbH' in den Bereichen nachhaltiger Verpackungslösungen und der Entwicklung von Biokunststoffen tätig ist."
+creative,Forschungsvereinigung Gießereitechnik e.V.,Finde zukunftsweisende Forschung zu 'Forschungsvereinigung Gießereitechnik e.V.',01IF21609N,True,14.74,False,"Basierend auf den vorliegenden Projekten sind die folgenden Forschungen der 'Forschungsvereinigung Gießereitechnik e.V.' als besonders zukunftsweisend einzuschätzen, da sie innovative Technologien (wie 3D-Druck, Maschinelles Lernen/KI) integrieren oder sich kritischen Zukunftsthemen (wie Nachhaltigkeit und Energiewende) widmen:
+
+*   **FKZ: 01if23251n**
+    *   **Empfänger:** forschungsvereinigung gießereitechnik e.v.
+    *   **Thema:** 3-d-gedruckte sandkerne für den druckguss
+    *   **Fördersumme:** 492191.00 EUR
+    *   *Begründung:* Die Integration des 3D-Drucks in den Gießereiprozess ist ein bedeutender Schritt in Richtung flexiblerer und effizienterer Fertigung.
+
+*   **FKZ: 01if22783n**
+    *   **Empfänger:** forschungsvereinigung gießereitechnik e.v.
+    *   **Thema:** bereichsbezogene klassifikation von graphitanordnungen in gusseisen mit lamellengraphit mittels methoden des maschinellen lernens
+    *   **Fördersumme:** 524813.00 EUR
+    *   *Begründung:* Der Einsatz von Methoden des Maschinellen Lernens zur Materialcharakterisierung ist ein zukunftsweisender Ansatz für die Qualitätssicherung und Materialentwicklung.
+
+*   **FKZ: 01if23225n**
+    *   **Empfänger:** forschungsvereinigung gießereitechnik e.v.
+    *   **Thema:** defossilisierung von eisengießereien durch den einsatz elektrischer schmelzaggregate im kontext der energiewende und unter berücksichtigung standortspezifischer faktoren
+    *   **Fördersumme:** 523586.00 EUR
+    *   *Begründung:* Dieses Projekt adressiert die entscheidende Herausforderung der Dekarbonisierung und Energiewende in der energieintensiven Gießereiindustrie und ist damit hochrelevant für die zukünftige Wettbewerbsfähigkeit und Umweltverträglichkeit.
+
+*   **FKZ: 01if22160n**
+    *   **Empfänger:** forschungsvereinigung gießereitechnik e.v.
+    *   **Thema:** entwicklung einer auf neuronalen netzen basierenden methode zur zerstörungsfreien prüfung mittels laserthermografie (thermographic testing) von gusserzeugnissen mit rauer oberfläche auf oberflächennahe ungänzen als alternative zur magnetpulver- und eindringprüfung
+    *   **Fördersumme:** 249474.00 EUR
+    *   *Begründung:* Die Anwendung von neuronalen Netzen in der zerstörungsfreien Prüfung (ZfP) mit Laserthermografie stellt eine fortschrittliche und automatisierte Methode zur Qualitätskontrolle dar.
+
+*   **FKZ: 01if22694n**
+    *   **Empfänger:** forschungsvereinigung gießereitechnik e.v.
+    *   **Thema:** prozesssicher lokal kleben
+    *   **Fördersumme:** 272646.00 EUR
+    *   *Begründung:* Obwohl Kleben eine etablierte Fügetechnik ist, kann ""prozesssicher lokal kleben"" auf innovative, automatisierbare oder materialangepasste Klebetechniken für Gussbauteile hindeuten, die neue Design- und Fertigungsmöglichkeiten eröffnen.",7.55,False,"Die zukunftsweisende Forschung im Bereich der 'Forschungsvereinigung Gießereitechnik e.V.' umfasst verschiedene Projekte, die sich mit innovativen Techniken und Materialien im Gießereibereich beschäftigen. Hier sind einige relevante Projekte:
+
+1. **Projekt zur Defossilisierung von Eisengießereien:**
+   - **Thema:** Defossilisierung von Eisengießereien durch den Einsatz elektrischer Schmelzaggregate im Kontext der Energiewende und unter Berücksichtigung standortspezifischer Faktoren
+   - **FKZ:** 01if23225n
+   - **Fördersumme:** 523.586,00 EUR
+
+2. **Projekt zur Nutzung von 3D-gedruckten Sandkernen:**
+   - **Thema:** 3-D-gedruckte Sandkerne für den Druckguss
+   - **FKZ:** 01if23251n
+   - **Fördersumme:** 492.191,00 EUR
+
+3. **Projekt zur Entwicklung von Methoden für die zerstörungsfreie Prüfung:**
+   - **Thema:** Entwicklung einer auf neuronalen Netzen basierenden Methode zur zerstörungsfreien Prüfung mittels Laserthermografie (thermographic testing) von Gusserzeugnissen mit rauer Oberfläche
+   - **FKZ:** 01if22160n
+   - **Fördersumme:** 249.474,00 EUR
+
+4. **Projekt zur Analyse von Zinkdruckgusslegierungen:**
+   - **Thema:** Analyse des zyklischen Werkstoffverhaltens von modernen Zinkdruckgusslegierungen
+   - **FKZ:** 01if21900n
+   - **Fördersumme:** 690.977,00 EUR
+
+5. **Projekt zur Klassifikation von Graphitanordnungen:**
+   - **Thema:** Bereichsbezogene Klassifikation von Graphitanordnungen in Gusseisen mit Lamellengraphit mittels Methoden des maschinellen Lernens
+   - **FKZ:** 01if22783n
+   - **Fördersumme:** 524.813,00 EUR
+
+Diese Projekte konzentrieren sich auf verschiedene Aspekte der Gießereitechnik, von der Verbesserung der Materialeigenschaften bis zur Integration neuer Technologien in bestehende Prozesse."
+creative,SAP SE,Welche Projekte treiben 'SAP SE' voran?,13IPC007,True,4.16,True,"Die folgenden Projekte werden von 'SAP SE' vorangetrieben:
+
+*   **FKZ:** 01me20009a, **Empfänger:** sap se, **Fördersumme:** 1080098.00 EUR
+*   **FKZ:** 13ik040e, **Empfänger:** sap se, **Fördersumme:** 1144820.00 EUR
+*   **FKZ:** 03ei6082b, **Empfänger:** sap se, **Fördersumme:** 850842.00 EUR
+*   **FKZ:** 13ik004j, **Empfänger:** sap se, **Fördersumme:** 14965706.00 EUR
+*   **FKZ:** 01mv20006a, **Empfänger:** sap se, **Fördersumme:** 2386807.00 EUR
+*   **FKZ:** 13mx008f, **Empfänger:** sap se, **Fördersumme:** 1675668.00 EUR
+*   **FKZ:** 13mx004e, **Empfänger:** sap se, **Fördersumme:** 2496284.00 EUR
+*   **FKZ:** 01mq22008e, **Empfänger:** sap se, **Fördersumme:** 572790.00 EUR
+*   **FKZ:** 03zu1105ec, **Empfänger:** sap se, **Fördersumme:** 12503.00 EUR
+*   **FKZ:** 01is22095e, **Empfänger:** sap se, **Fördersumme:** 112883.00 EUR
+*   **FKZ:** 03zu1105dc, **Empfänger:** sap se, **Fördersumme:** 12503.00 EUR
+*   **FKZ:** 01mv23020k, **Empfänger:** sap se, **Fördersumme:** 644511.00 EUR
+*   **FKZ:** 13mx001t, **Empfänger:** sap se, **Fördersumme:** 12602580.00 EUR
+*   **FKZ:** 13ipc007, **Empfänger:** sap se, **Fördersumme:** 329614000.00 EUR
+*   **FKZ:** 03emi6074, **Empfänger:** sap se, **Fördersumme:** 999042.00 EUR
+*   **FKZ:** 03zu1105lc, **Empfänger:** sap se, **Fördersumme:** 11603.00 EUR",5.79,True,"Die Projekte, die von 'SAP SE' vorangetrieben werden, sind:
+
+1. FKZ: 13ipc007, Empfänger: SAP SE, Fördersumme: 329614000.00 EUR
+2. FKZ: 13mx001t, Empfänger: SAP SE, Fördersumme: 12602580.00 EUR
+3. FKZ: 13ik004j, Empfänger: SAP SE, Fördersumme: 14965706.00 EUR
+4. FKZ: 01mv20006a, Empfänger: SAP SE, Fördersumme: 2386807.00 EUR
+5. FKZ: 13mx004e, Empfänger: SAP SE, Fördersumme: 2496284.00 EUR
+6. FKZ: 13mx008f, Empfänger: SAP SE, Fördersumme: 1675668.00 EUR
+7. FKZ: 13ik040e, Empfänger: SAP SE, Fördersumme: 1144820.00 EUR
+8. FKZ: 01me20009a, Empfänger: SAP SE, Fördersumme: 1080098.00 EUR
+9. FKZ: 03emf0401a, Empfänger: SAP SE, Fördersumme: 999042.00 EUR
+10. FKZ: 01mq22008e, Empfänger: SAP SE, Fördersumme: 572790.00 EUR
+11. FKZ: 01mv23020k, Empfänger: SAP SE, Fördersumme: 644511.00 EUR
+12. FKZ: 03ei6082b, Empfänger: SAP SE, Fördersumme: 850842.00 EUR
+13. FKZ: 01is22095e, Empfänger: SAP SE, Fördersumme: 112883.00 EUR
+14. FKZ: 03zu1105lc, Empfänger: SAP SE, Fördersumme: 11603.00 EUR
+15. FKZ: 03zu1105ec, Empfänger: SAP SE, Fördersumme: 12503.00 EUR
+16. FKZ: 03zu1105dc, Empfänger: SAP SE, Fördersumme: 12503.00 EUR
+
+Die Projekte sind nach Fördersumme sortiert, beginnend mit dem Projekt mit der höchsten Fördersumme."
+creative,Aerial PV Inspection GmbH,Gibt es wegweisende Entwicklungen im Bereich 'Aerial PV Inspection GmbH'?,03EE1107E,True,5.6,True,"Ja, es gibt wegweisende Entwicklungen im Bereich 'Aerial PV Inspection GmbH' basierend auf den bereitgestellten Projekten. Die Projekte konzentrieren sich auf die Automatisierung und Digitalisierung von Inspektionsverfahren sowie auf die Analyse zur Sicherstellung der Zuverlässigkeit von PV-Anlagen, was für ein Unternehmen in diesem Sektor als wegweisend betrachtet werden kann.
+
+Hier sind die relevanten Projekte:
+
+*   **FKZ:** 03ee1107e
+    **Empfänger:** aerial pv inspection gmbh
+    **Thema:** verbundvorhaben: pvoptdigital - erschließung von 5% ertragspotential in pv kraftwerken über optimierte betriebsführung durch automatisierung und digitalisierung sowie optische inspektionsverfahren, teilvorhaben: automatisierung optischer inspektionsverfahren
+    **Fördersumme:** 175499.00 EUR
+
+*   **FKZ:** 03ei4052c
+    **Empfänger:** aerial pv inspection gmbh
+    **Thema:** verbundvorhaben: reliaren-pro - zuverlässigkeit der langfristigen versorgung mit erneuerbarer energie auf der grundlage von pv-technologien, teilvorhaben: feldmessungen und analysen.
+    **Fördersumme:** 84877.00 EUR",3.39,True,"Ja, es gibt zwei relevante Projekte, die sich mit wegweisenden Entwicklungen im Bereich 'Aerial PV Inspection GmbH' befassen:
+
+1. **Projekt 1:**
+   - **FKZ:** 03ee1107e
+   - **Empfänger:** Aerial PV Inspection GmbH
+   - **Thema:** Verbundvorhaben: PVOptDigital - Erschließung von 5% Ertragspotential in PV Kraftwerken über optimierte Betriebsführung durch Automatisierung und Digitalisierung sowie optische Inspektionsverfahren, Teilvorhaben: Automatisierung optischer Inspektionsverfahren
+   - **Fördersumme:** 175.499,00 EUR
+
+2. **Projekt 2:**
+   - **FKZ:** 03ei4052c
+   - **Empfänger:** Aerial PV Inspection GmbH
+   - **Thema:** Verbundvorhaben: ReLiaRen-Pro - Zuverlässigkeit der langfristigen Versorgung mit erneuerbarer Energie auf der Grundlage von PV-Technologien, Teilvorhaben: Feldmessungen und Analysen
+   - **Fördersumme:** 84.877,00 EUR
+
+Diese Projekte fokussieren sich auf die Optimierung der Betriebsführung von PV-Kraftwerken durch Automatisierung und Digitalisierung sowie die Zuverlässigkeit der Versorgung mit erneuerbarer Energie."
+creative,Stadt Gundelfingen a.d. Donau,Welche Pionierarbeit wird zu 'Stadt Gundelfingen a.d. Donau' geleistet?,6904WF0180,True,6.1,True,"Basierend auf den vorliegenden Projekten wird für die ""Stadt Gundelfingen a.d. Donau"" keine explizite ""Pionierarbeit"" im Sinne von innovativen oder wegweisenden Forschungsprojekten beschrieben. Die Projekte beziehen sich auf den Ausbau der Breitbandinfrastruktur.
+
+Hier sind die relevanten Projekte für die ""Stadt Gundelfingen a.d. Donau"":
+
+*   **FKZ:** 6902bf0177
+    **Empfänger:** stadt gundelfingen a.d. donau
+    **Thema:** beratungsleistung - ausbau der breitbandinfrastruktur nach nr. 3.3 der gigabit-rl 2.0 des bundes
+    **Fördersumme:** 50000.00 EUR
+
+*   **FKZ:** 6904wf0180
+    **Empfänger:** stadt gundelfingen a.d. donau
+    **Thema:** infrastruktur - ausbau der breitbandinfrastruktur nach dem wirtschaftlichkeitslückenmodell nach nr. 3.1 der gigabit-rl 2.0 des bundes
+    **Fördersumme:** 4059000.00 EUR",3.61,True,"Für die Stadt Gundelfingen a.d. Donau wurden zwei relevante Projekte identifiziert, die im Bereich der Breitbandinfrastruktur Pionierarbeit leisten:
+
+1. **Projekt 1:**
+   - **FKZ:** 6902bf0177
+   - **Empfänger:** Stadt Gundelfingen a.d. Donau
+   - **Thema:** Beratungsleistung - Ausbau der Breitbandinfrastruktur nach Nr. 3.3 der Gigabit-RL 2.0 des Bundes
+   - **Fördersumme:** 50,000.00 EUR
+
+2. **Projekt 2:**
+   - **FKZ:** 6904wf0180
+   - **Empfänger:** Stadt Gundelfingen a.d. Donau
+   - **Thema:** Infrastruktur - Ausbau der Breitbandinfrastruktur nach dem Wirtschaftlichkeitslückenmodell nach Nr. 3.1 der Gigabit-RL 2.0 des Bundes
+   - **Fördersumme:** 4,059,000.00 EUR
+
+Diese Projekte zielen darauf ab, die Breitbandinfrastruktur in Gundelfingen a.d. Donau durch Beratungsleistungen und den Ausbau der Infrastruktur nach spezifischen Modellen der Gigabit-Richtlinie 2.0 des Bundes zu verbessern."
+creative,"Unterstützung und Verbesserung von traditionellen Methoden in der Bahnbestimmung, sowie der Abschätzung der Unsicherheiten von Bahnelementen durch KI-","Zeige Förderprojekte, die 'Unterstützung und Verbesserung von traditionellen Methoden i' revolutionieren",50LZ2308,False,19.55,False,"Basierend auf den bereitgestellten Projekten könnten die folgenden Projekte als ""Unterstützung und Verbesserung von traditionellen Methoden"" im Sinne einer Revolutionierung angesehen werden:
+
+*   **FKZ: 01if23071n**
+    *   **Empfänger:** forschungsvereinigung antriebstechnik e.v.
+    *   **Thema:** experimentell validierte weiterentwicklung von berechnungsmethoden zur flankenbruchtragfähigkeit von kegelrädern unter anwendung ki-gestützter simulation und vereinfachter berechnungsansätze
+    *   **Fördersumme:** 502573.00 EUR
+    *   *Begründung:* Dieses Projekt zielt darauf ab, bestehende (traditionelle) Berechnungsmethoden durch den Einsatz von KI-gestützter Simulation und vereinfachten Ansätzen weiterzuentwickeln, was eine signifikante Verbesserung und Modernisierung darstellt.
+
+*   **FKZ: 03wir1906c**
+    *   **Empfänger:** ibes ag
+    *   **Thema:** wir! - recomine - terzinn, tp3: ki-basierte überwachung, steuerung und visualisierung der wasseraufbereitung mittels open-workflow-definition-engine und kostengünstiger iot
+    *   **Fördersumme:** 99800.00 EUR
+    *   *Begründung:* Die Wasseraufbereitung ist ein traditioneller Prozess. Die Einführung von KI-basierter Überwachung, Steuerung und IoT revolutioniert die Effizienz und Präzision dieser Methode.
+
+*   **FKZ: 03vp10701**
+    *   **Empfänger:** universität heidelberg
+    *   **Thema:** verbundprojekt: chemische modifikation etablierter antibiotika mittels peptid-konjugation zur überwindung der resistenzproblematik - rovance, teilvorhaben: synthese und pk/pd untersuchung
+    *   **Fördersumme:** 1089595.00 EUR
+    *   *Begründung:* Hier werden ""etablierte"" (traditionelle) Antibiotika durch chemische Modifikation verbessert, um ein aktuelles Problem (Resistenz) zu überwinden, was ihre Wirksamkeit revolutioniert.
+
+*   **FKZ: 03wir1917a**
+    *   **Empfänger:** helmholtz-zentrum dresden - rossendorf e. v.
+    *   **Thema:** wir! - recomine - re_pneu, tp1: innovative, digitalisierte, pneumatische flotationstechnologie und prozessmineralogische bewertung
+    *   **Fördersumme:** 237239.00 EUR
+    *   *Begründung:* Die pneumatische Flotationstechnologie ist eine traditionelle Methode der Rohstoffverarbeitung. Die Beschreibung als ""innovative"" und ""digitalisierte"" Technologie deutet auf eine revolutionäre Weiterentwicklung hin.
+
+*   **FKZ: 01if22221n**
+    *   **Empfänger:** vdw-forschungsinstitut e.v.
+    *   **Thema:** hybride thermische korrekturmethodik für werkzeugmaschinen in serien- und einzelteilproduktion
+    *   **Fördersumme:** 247802.00 EUR
+    *   *Begründung:* Die Entwicklung einer ""hybriden"" Korrekturmethodik impliziert eine deutliche Verbesserung und Modernisierung gegenüber rein traditionellen thermischen Korrekturverfahren an Werkzeugmaschinen.
+
+*   **FKZ: 03f0975a**
+    *   **Empfänger:** alfred-wegener-institut helmholtz-zentrum für polar- und meeresforschung
+    *   **Thema:** marine biodiversität: indifun-ai - innovative ?pressure-state-indikatoren für biodiversitätsveränderungen basierend auf einem global einmaligen marinen planktondatensatz und unter einsatz neuester ki-gestützter statistischer verfahren, leitantrag, vorhaben: innovative methoden zur analyse von arktischem plankton
+    *   **Fördersumme:** 620738.00 EUR
+    *   *Begründung:* Das Projekt verwendet ""neueste KI-gestützte statistische Verfahren"" für die ""innovative Analyse"" von arktischem Plankton, was eine Revolutionierung traditioneller Analysemethoden in der Meeresforschung darstellt.",4.59,False,"Basierend auf den angegebenen Projekten gibt es einige, die sich mit der Unterstützung und Verbesserung traditioneller Methoden befassen könnten. Hier sind die relevanten Projekte:
+
+1. FKZ: 16gm101901, Empfänger: techscape e.k., Thema: Erprobung additiver Fertigungsverfahren zur nachhaltigen Herstellung von Komponenten für den Orgelbau, Fördersumme: 52,147.00 EUR
+   - Dieses Projekt befasst sich mit der Erprobung neuer Fertigungsverfahren zur Verbesserung traditioneller Methoden im Orgelbau.
+
+2. FKZ: 03vp10701, Empfänger: Universität Heidelberg, Thema: Verbundprojekt: Chemische Modifikation etablierter Antibiotika mittels Peptid-Konjugation zur Überwindung der Resistenzproblematik - ROVANCE, Teilvorhaben: Synthese und PK/PD Untersuchung, Fördersumme: 1,089,595.00 EUR
+   - Hier geht es um die Verbesserung traditioneller Antibiotika-Methoden durch chemische Modifikation.
+
+Wenn eine Sortierung nach Fördersumme gewünscht ist, wäre das zweite Projekt mit der höheren Fördersumme vorrangig."
+creative,Hochschule Zittau/Görlitz,Welche Schlüsselprojekte beschäftigen sich mit 'Hochschule Zittau/Görlitz'?,03EI5463A,True,17.7,True,"Alle der aufgelisteten Projekte beschäftigen sich mit der Hochschule Zittau/Görlitz, da sie alle als Empfängerin der Fördergelder ausgewiesen ist.
+
+Hier sind die Projekte mit den relevanten Informationen:
+
+*   **FKZ:** 01uy2213c, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundvorhaben: aufbau transformativer kapazitäten zur aktivierung regionaler innovationssysteme. teilvorhaben hszg: governance regionaler innovationssysteme: kontexte und akteure, **Fördersumme:** 241583.00 EUR
+*   **FKZ:** 03ei6054d, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundvorhaben: protect - sicherer netzbetrieb durch einsatz selbstlernender ki-firewalls in energieversorgungsunternehmen, teilprojekt hs zittau/görlitz: modellierung und simulation von it-angriffsszenarien, **Fördersumme:** 345085.00 EUR
+*   **FKZ:** 01uy2201a, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundvorhaben: beteiligung und partnerschaften im strukturwandel. soziale innovationen in der lausitz lebensweltlich durchdringen und handlungspraktisch stärken (bepart). teilvorhaben: wandel gestalten, **Fördersumme:** 335946.00 EUR
+*   **FKZ:** 13ihs214e, **Empfänger:** hochschule zittau/görlitz, **Thema:** sustained university grid saxony5 - wissen nachhaltig vernetzt., teilvorhaben hochschule zittau/görlitz, **Fördersumme:** 2266929.00 EUR
+*   **FKZ:** 03wir2715, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - lausitz-wind - - innovationsmanagement ii, **Fördersumme:** 57056.00 EUR
+*   **FKZ:** 13fh2i09ia, **Empfänger:** hochschule zittau/görlitz, **Thema:** fh-impuls 2016 i: lander³-impulsprojekt 9 (ip9): erforschung wirtschaftlicher prozessketten zur nachhaltigen herstellung von naturfaser-kunststoff-verbunden, **Fördersumme:** 862537.00 EUR
+*   **FKZ:** 03wir0105d, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - koi - verbundprojekt: digitale zwillinge für prozessoptimierung und vorausschauende instandhaltung, tp dz 2: digitaler zwilling hszg datenbasierte modellierung, **Fördersumme:** 175507.00 EUR
+*   **FKZ:** 03wir2712, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - lat-strategie, l&t strategie-, nachhaltigkeits- und transferanalyse, **Fördersumme:** 396869.00 EUR
+*   **FKZ:** 02l19c329, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundprojekt: perspektivearbeit lausitz - kompetenzzentrum für die arbeit der zukunft in sachsen und brandenburg (pal), teilprojekt: mitarbeiter- und kontextspezifische datenbasierte entscheidungsunterstützungs- und informationssysteme entlang der wertschöpfungskette, **Fördersumme:** 710499.00 EUR
+*   **FKZ:** 13fh2m2ia, **Empfänger:** hochschule zittau/görlitz, **Thema:** fh-impuls 2016 i: lander³ - managementprojekt (lander3_2_mp), **Fördersumme:** 648333.00 EUR
+*   **FKZ:** 01ls2107f, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundprojekt cdr: mehrstufige bewertung von biobasierten negativ-emissions-technologien (bionet) - teilprojekt 6: kohlenstoffnegative, langlebige baustoffe, **Fördersumme:** 70622.00 EUR
+*   **FKZ:** 16mcj4105d, **Empfänger:** hochschule zittau/görlitz, **Thema:** vorhabentitel: mintmachregion ostsachsen - minos, teilvorhaben: minos-verstetigung, **Fördersumme:** 101000.00 EUR
+*   **FKZ:** 03ei5463a, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundvorhaben: modbioen - entwicklung und zusammenstellung einer pilotanlage einer containerbasierten hochleistungsbiogasanlage mit testeinsatz in realen umgebungsbedingungen zur erschließung von biogenen rest- und abfallstoffen, teilvorhaben: weiterentwicklung, versuchsbetreuung, datenauswertung, **Fördersumme:** 456561.00 EUR
+*   **FKZ:** 03tr09w03b, **Empfänger:** hochschule zittau/görlitz, **Thema:** t!raum - syntral - dezentraler lausitz campus - tp2: digitale lehrmethoden in der kunststoffverarbeitung, **Fördersumme:** 376653.00 EUR
+*   **FKZ:** 03wir2718a, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - innova.geist - innovationen folgen...! genese, struktur und wirkungsweise sozialer innovationen im strukturwandel der lausitz, tp1: wissen - erforschung und bedeutung technischer und sozialer innovationen als bestandteil nachhaltiger regionalentwicklung, **Fördersumme:** 211527.00 EUR
+*   **FKZ:** 03wir2707a, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - ankip - entwicklung von abwärmenutzungskonzepten für industrielle prozesse, tp1: handlungs- und berechnungsgrundlagen, **Fördersumme:** 326459.00 EUR
+*   **FKZ:** 16mee0358, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundprojekt: ki-unterstützte elektroniksysteme für die nachhaltige produktion - aims5.0 - , **Fördersumme:** 150337.00 EUR
+*   **FKZ:** 16ps104003, **Empfänger:** hochschule zittau/görlitz, **Thema:** humintex / huminstoffe zur antiviralen funktionalisierung ökologisch nachhaltiger vliesstoffe für atemschutzmasken, **Fördersumme:** 165510.00 EUR
+*   **FKZ:** 03wir2711, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - factory4future - erforschung informatorischer assistenzsysteme zur menschenzentrierten und lernförderlichen produktionsgestaltung in der lausitz von morgen, **Fördersumme:** 380548.00 EUR
+*   **FKZ:** 03wir2706b, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - greenheater, tp 2: langzeitsimulation einer neuartigen speicherlösung für gebäude mit photovoltaikversorgung, **Fördersumme:** 193405.00 EUR
+*   **FKZ:** 13fh2i10ia, **Empfänger:** hochschule zittau/görlitz, **Thema:** fh-impuls 2016 i: lander³ - impulsprojekt 10 (ip10): bioraffinerie, stoffliches recycling, energie und kohlenstoff (lander3_ip10), **Fördersumme:** 978724.00 EUR
+*   **FKZ:** 03fhp238, **Empfänger:** hochschule zittau/görlitz, **Thema:** potentiale entfalten, fördern und nutzen - professorales personal durch interne und externe kooperation gewinnen, **Fördersumme:** 4378477.00 EUR
+*   **FKZ:** 03wir2714a, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - lausitz-wind - innovative windenergie-technologien in der lausitz, tp 1: strömungsmechanische optimierung von nfk-rotoren, **Fördersumme:** 369409.00 EUR
+*   **FKZ:** 03ru3u013e, **Empfänger:** hochschule zittau/görlitz, **Thema:** rubin - enviroplast - kunststoffverarbeitung/ bauteilherstellung, tp3.5: erforschung und entwicklung kreislauffähiger formwerkzeuge für die composite-verarbeitung aus bioreststoff-thermoplasten, **Fördersumme:** 1586035.00 EUR
+*   **FKZ:** 03wir2713b, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - lowex - entwicklung eines digitalen werkzeugs zur nutzbarmachung unvermeidbarer abwärme aus industrie- oder energiewandlungsprozessen, tp2: modul zur simulation von heizwärmeversorgungsnetzen mit mobilen speichern für lehre und praxisnahe forschung, **Fördersumme:** 37394.00 EUR
+*   **FKZ:** 03wir2717a, **Empfänger:** hochschule zittau/görlitz, **Thema:** wir! - life & technology - edwenia - entwicklung druckloser wärmespeicher für die effiziente nutzung industrieller abwärme, tp1: grundlagen - auslegung - test, **Fördersumme:** 315562.00 EUR
+*   **FKZ:** 1501606b, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundvorh.: entwicklung und erprobung von verfahren zur nichtinvasiven analyse des inventarzustands für transport- und lagerbehälter bei verlängerter zwischenlagerung - teilvorh.: konzeption und errichtung eines automatisierten strahlungsmesssystems zur durchführung von experimenten und zustandsanalyse v. tlb, **Fördersumme:** 567204.00 EUR
+*   **FKZ:** 16sv8927, **Empfänger:** hochschule zittau/görlitz, **Thema:** pitips: partizipation und co-creation für innovative technologien für informell pflegende und sorgegemeinschaften , **Fördersumme:** 197008.00 EUR
+*   **FKZ:** 03vp08902, **Empfänger:** hochschule zittau/görlitz, **Thema:** verbundprojekt: chrom(vi)-freies verfahren zur galvanischen metallisierung von kunststoffteilen - nochrom2, teilvorhaben: abscheidung metallischer schichten, **Fördersumme:** 439117.00 EUR
+*   **FKZ:** 45fgu108_d, **Empfänger:** hochschule zittau/görlitz, **Thema:** predictive analytics und der einsatz von künstlicher intelligenz (ki) zur datenanalyse und -auswertung, **Fördersumme:** 296883.00 EUR",4.5,False,"Basierend auf den bereitgestellten Informationen beschäftigen sich alle aufgelisteten Schlüsselprojekte mit der Hochschule Zittau/Görlitz. Hier sind einige der Projekte mit ihren jeweiligen Fördersummen aufgelistet:
+
+1. FKZ: 03fhp238, Empfänger: Hochschule Zittau/Görlitz, Fördersumme: 4,378,477.00 EUR
+2. FKZ: 13ihs214e, Empfänger: Hochschule Zittau/Görlitz, Fördersumme: 2,266,929.00 EUR
+3. FKZ: 03ru3u013e, Empfänger: Hochschule Zittau/Görlitz, Fördersumme: 1,586,035.00 EUR
+4. FKZ: 13fh2i09ia, Empfänger: Hochschule Zittau/Görlitz, Fördersumme: 862,537.00 EUR
+5. FKZ: 13fh2i10ia, Empfänger: Hochschule Zittau/Görlitz, Fördersumme: 978,724.00 EUR
+
+Diese Liste ist nach der Fördersumme absteigend sortiert. Alle Projekte in der Liste haben die Hochschule Zittau/Görlitz als Empfänger."
+creative,Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzwerkeffekten in der Datenproduktion und -verwertung - LuftDatenNet,Finde innovative Lösungen für 'Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzw',16DTM116,True,21.16,True,"Basierend auf den bereitgestellten Projekten gibt es ein direkt passendes Projekt und ein weiteres, das sehr ähnliche innovative Lösungen im Bereich Luftqualität und Datennetzwerke bietet:
+
+1.  **FKZ: 16dtm116**
+    *   **Empfänger:** breeze technologies ug (haftungsbeschränkt)
+    *   **Thema:** **luftqualitäts-datentreuhandplattform zur erzielung von netzwerkeffekten in der datenproduktion und -verwertung - luftdatennet**
+    *   **Fördersumme:** 673319.00 EUR
+    *   *Anmerkung:* Dieses Projekt entspricht exakt der gesuchten Beschreibung einer Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzwerkeffekten.
+
+2.  **FKZ: 19f2136l**
+    *   **Empfänger:** stadt teltow
+    *   **Thema:** Verbundprojekt: digitale entwicklungsplattform für städtische umweltlösungen und **luft-qualitäts-netzwerk** - deus_smartair -, teilvorhaben: stadt teltow
+    *   **Fördersumme:** 237728.00 EUR
+    *   *Anmerkung:* Obwohl nicht explizit als ""Datentreuhandplattform"" bezeichnet, handelt es sich hier um eine ""digitale Entwicklungsplattform für städtische Umweltlösungen"" und ein ""Luft-Qualitäts-Netzwerk"", was eine sehr relevante und innovative Lösung im Kontext der Fragestellung darstellt.",2.38,True,"Basierend auf den gegebenen Projekten, gibt es ein spezifisches Projekt, das eine innovative Lösung für eine ""Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzw..."" bietet:
+
+- **FKZ: 16dtm116**
+  - **Empfänger:** Breeze Technologies UG (haftungsbeschränkt)
+  - **Thema:** Luftqualitäts-Datentreuhandplattform zur Erzielung von Netzwerkeffekten in der Datenproduktion und -verwertung - Luftdatennet
+  - **Fördersumme:** 673.319,00 EUR
+
+Dieses Projekt zielt darauf ab, Netzwerkeffekte in der Datenproduktion und -verwertung im Bereich der Luftqualität zu erzielen. Es scheint genau das zu sein, was du suchst."

@@ -1,0 +1,4 @@
+Modell,Embedding-Dimension,Embedding-Zeit (s),Trefferquote (%),Ø Query-Zeit (s),Hits,Total Queries
+e5-base-sts-en-de,768,0.19,53.33,0.064,80,150
+bge-m3,1024,0.2,64.0,0.152,96,150
+all-MiniLM-L6-v2,384,0.06,55.33,0.017,83,150
